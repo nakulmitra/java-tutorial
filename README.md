@@ -15,8 +15,8 @@ Each markdown file contains explanations, syntax, and use cases for various Java
 - [Do-While Loops](control-flow-statements/loops/do-while-loop/DoWhileLoopTheory.md)
 
 ## Stay Connected:
-* YouTube Channel: [Dev Portal] (https://www.youtube.com/@DevPortal2114) - Subscribe for the latest Java tutorials.
-* LinkedIn: [LinkedIn Profile] (https://www.linkedin.com/in/nakul-mitra-microservices-spring-boot-java-postgresql/) - Connect with me for more programming insights.
+* YouTube Channel: [Dev Portal](https://www.youtube.com/@DevPortal2114) - Subscribe for the latest Java tutorials.
+* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nakul-mitra-microservices-spring-boot-java-postgresql/) - Connect with me for more programming insights.
 
 Happy coding! If you find these resources helpful, please give this repo a star ⭐ and share it with others who are learning Java.
 
