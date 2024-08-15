@@ -59,9 +59,9 @@ This release marked the first major update under Oracle's stewardship. Java 7 in
 
 ### 2014 - Java 8
 Java 8 was one of the most revolutionary updates to the Java language. It introduced lambda expressions, which brought functional programming concepts to Java. Other significant features included:
-* Streams API: For processing collections of objects.
-* Optional class: To prevent null pointer exceptions.
-* Default methods in interfaces: Allowing methods in interfaces to have a default implementation.
+* ``Streams API:`` For processing collections of objects.
+* ``Optional class:`` To prevent null pointer exceptions.
+* ``Default methods in interfaces:`` Allowing methods in interfaces to have a default implementation.
 
 ## 2017 - Java 9 and the Introduction of Modules
 With Java 9, Oracle introduced the Java Platform Module System (JPMS), which aimed to improve the modularity of Java applications. It also included improvements to the JVM, JIT compiler, and Garbage Collector.
