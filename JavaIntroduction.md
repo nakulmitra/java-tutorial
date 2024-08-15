@@ -1,4 +1,4 @@
-# Introduction to Java
+# 📖 Introduction to Java
 Java is a versatile, platform-independent, object-oriented programming language used for developing a wide range of applications. Java is known for its Write Once, Run Anywhere principle.
 
 ## What is Java?
