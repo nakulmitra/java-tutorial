@@ -25,30 +25,26 @@ After limited success with Oak in the embedded systems domain, the focus shifted
 In January 1996, JDK 1.0 was released, which included key tools such as the Java compiler and the Java runtime environment. This release marked the beginning of widespread Java development.
 
 ## Java in the Enterprise World (2000 - 2004)
-### 2000 - Java 2 (J2SE 1.3, J2EE 1.2)
-The release of Java 2 further solidified Java's dominance, especially in enterprise environments. Java was now divided into three editions:
-* Java Standard Edition (J2SE) for desktop and client-side applications.
-* Java Enterprise Edition (J2EE) for server-side applications.
-* Java Micro Edition (J2ME) for mobile and embedded devices.
+* `2000 - Java 2 (J2SE 1.3, J2EE 1.2)` The release of Java 2 further solidified Java's dominance, especially in enterprise environments. Java was now divided into three editions:
+1. Java Standard Edition (J2SE) for desktop and client-side applications.
+2. Java Enterprise Edition (J2EE) for server-side applications.
+3. Java Micro Edition (J2ME) for mobile and embedded devices.
 
-### 2002 - Java 1.4
-With this release, Java gained performance enhancements and new features, including the NIO (New Input/Output) library, logging APIs, and support for XML parsing. Java had now become the dominant language for enterprise applications, web services, and large-scale distributed systems.
+* `2002 - Java 1.4` With this release, Java gained performance enhancements and new features, including the NIO (New Input/Output) library, logging APIs, and support for XML parsing. Java had now become the dominant language for enterprise applications, web services, and large-scale distributed systems.
 
 ## Java's Growth and Stability (2004 - 2010)
-### 2004 - Java 5 (J2SE 5.0)
-One of the most significant updates to Java was released in 2004, initially known as J2SE 5.0 (later simplified to Java SE 5). This version introduced key language features such as:
-* Generics: Allowing types to be parameterized.
-* Enhanced for-loop: A simpler syntax for iterating over collections.
-* Autoboxing/Unboxing: Automatic conversion between primitive types and their wrapper classes.
-* Enumerations (Enums): Providing a type-safe way to represent fixed sets of constants.
-* Annotations: A new metadata facility used to provide information to the compiler.
+* `2004 - Java 5 (J2SE 5.0)` One of the most significant updates to Java was released in 2004, initially known as J2SE 5.0 (later simplified to Java SE 5). This version introduced key language features such as:
+1. ``Generics:`` Allowing types to be parameterized.
+2. ``Enhanced for-loop:`` A simpler syntax for iterating over collections.
+3. ``Autoboxing/Unboxing:`` Automatic conversion between primitive types and their wrapper classes.
+4. ``Enumerations (Enums):`` Providing a type-safe way to represent fixed sets of constants.
+5. ``Annotations:`` A new metadata facility used to provide information to the compiler.
 
 ### 2006 - Sun Microsystems Open-Sources Java
 In a major shift, Sun Microsystems decided to open-source Java under the GNU General Public License (GPL). This move aimed to foster community collaboration and make Java more widely accessible.
 
 ## Oracle Takes Over Java (2010 - Present)
-### 2010 - Oracle Acquires Sun Microsystems
-In January 2010, Oracle Corporation acquired Sun Microsystems, and with it, Java. This acquisition led to significant changes in the governance and development of Java. Oracle continued to develop and maintain Java but introduced more aggressive update schedules and changes to licensing models.
+* `2010 - Oracle Acquires Sun Microsystems` In January 2010, Oracle Corporation acquired Sun Microsystems, and with it, Java. This acquisition led to significant changes in the governance and development of Java. Oracle continued to develop and maintain Java but introduced more aggressive update schedules and changes to licensing models.
 
 ### 2011 - Java 7
 This release marked the first major update under Oracle's stewardship. Java 7 introduced several new language features, including:
