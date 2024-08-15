@@ -15,7 +15,7 @@ Java is a high-level, object-oriented programming language known for its platfor
 * Installing JDK: The Java Development Kit (JDK) contains tools like the Java compiler (javac) and the Java Runtime Environment (JRE). Download the JDK from the Oracle website and follow the installation instructions for your operating system.
 * Setting Environment Variables: After installing the JDK, set the JAVA_HOME variable to the JDK installation directory and add the JDK's bin directory to the PATH variable. This allows you to run Java commands from any directory in your terminal or command prompt.
 
-## Basic Syntax:
+## Basic Syntax
 1. Java Program Structure: A Java program consists of one or more classes. Each class contains methods, which contain the program's code. The entry point of a Java program is the main method.
 
 ```
@@ -91,7 +91,7 @@ Arrays.sort(numbers);
 ```
 
 ## Methods
-1. Declaring and Calling Methods: Methods are declared within classes and contain a block of code. They can be called from other methods or objects.
-2. Method Parameters and Return Types: Methods can have parameters and return values. Parameters are variables passed to the method, and the return type defines the type of value the method returns.
-3. Method Overloading: Method overloading allows a class to have multiple methods with the same name but different parameters.
-4. Recursion: Recursion is a technique in which a method calls itself to solve a problem.
+1. ``Declaring and Calling Methods:`` Methods are declared within classes and contain a block of code. They can be called from other methods or objects.
+2. ``Method Parameters and Return Types:`` Methods can have parameters and return values. Parameters are variables passed to the method, and the return type defines the type of value the method returns.
+3. ``Method Overloading:`` Method overloading allows a class to have multiple methods with the same name but different parameters.
+4. ``Recursion:`` Recursion is a technique in which a method calls itself to solve a problem.
