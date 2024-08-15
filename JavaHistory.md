@@ -12,11 +12,9 @@ By 1991, the Green Project had resulted in the development of a language named O
 After limited success with Oak in the embedded systems domain, the focus shifted toward web applications and interactive content. The team realized that there was a need for a language that could work across various computing platforms, including personal computers and servers.
 
 ## Java is Born (1995 - 1999)
-### 1995 - The Name Change to Java
-In 1995, Oak was renamed Java due to trademark issues with another company that already held the name Oak. The name "Java" was inspired by the coffee that the team drank during long development hours, specifically Java coffee from Indonesia.
+* `1995 - The Name Change to Java` In 1995, Oak was renamed Java due to trademark issues with another company that already held the name Oak. The name "Java" was inspired by the coffee that the team drank during long development hours, specifically Java coffee from Indonesia.
 
-### 1995 - Official Release of Java 
-In the same year, Sun Microsystems officially released Java to the public with the slogan "Write Once, Run Anywhere" (WORA). This phrase emphasized Java's ability to run on any platform without needing to be recompiled. The first public version was Java 1.0, and it quickly gained attention due to its potential in web development, particularly for creating applet-based interactive web pages.
+* `1995 - Official Release of Java` In the same year, Sun Microsystems officially released Java to the public with the slogan "Write Once, Run Anywhere" (WORA). This phrase emphasized Java's ability to run on any platform without needing to be recompiled. The first public version was Java 1.0, and it quickly gained attention due to its potential in web development, particularly for creating applet-based interactive web pages.
 
 ## Key Features of Java 1.0
 1. Platform Independence: Java achieved platform independence through the Java Virtual Machine (JVM), which allowed Java bytecode to run on any operating system.
