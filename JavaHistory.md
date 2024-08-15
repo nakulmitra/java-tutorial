@@ -1,4 +1,4 @@
-# History of Java
+🕰️# History of Java
 Java, one of the most popular programming languages today, has a rich history that spans several decades. It has evolved significantly from its initial development phase to becoming a widely used platform in modern software development.
 
 ## The Origins (1990 - 1995)
@@ -17,9 +17,9 @@ After limited success with Oak in the embedded systems domain, the focus shifted
 * `1995 - Official Release of Java` In the same year, Sun Microsystems officially released Java to the public with the slogan "Write Once, Run Anywhere" (WORA). This phrase emphasized Java's ability to run on any platform without needing to be recompiled. The first public version was Java 1.0, and it quickly gained attention due to its potential in web development, particularly for creating applet-based interactive web pages.
 
 ## Key Features of Java 1.0
-1. Platform Independence: Java achieved platform independence through the Java Virtual Machine (JVM), which allowed Java bytecode to run on any operating system.
-2. Garbage Collection: Java featured automatic memory management through garbage collection, making it easier for developers to manage memory without worrying about manual deallocation.
-3. Security Features: Java was designed with security in mind, allowing applets to run securely within web browsers.
+1. ``Platform Independence:`` Java achieved platform independence through the Java Virtual Machine (JVM), which allowed Java bytecode to run on any operating system.
+2. ``Garbage Collection:`` Java featured automatic memory management through garbage collection, making it easier for developers to manage memory without worrying about manual deallocation.
+3. ``Security Features:`` Java was designed with security in mind, allowing applets to run securely within web browsers.
 
 ## 1996 - First Java Development Kit (JDK)
 In January 1996, JDK 1.0 was released, which included key tools such as the Java compiler and the Java runtime environment. This release marked the beginning of widespread Java development.
