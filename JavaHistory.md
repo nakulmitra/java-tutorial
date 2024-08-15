@@ -1,4 +1,4 @@
-🕰️# History of Java
+# 🕰️ History of Java
 Java, one of the most popular programming languages today, has a rich history that spans several decades. It has evolved significantly from its initial development phase to becoming a widely used platform in modern software development.
 
 ## The Origins (1990 - 1995)
