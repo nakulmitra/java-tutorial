@@ -6,6 +6,12 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 * Click on the links below to explore each topic and explore the theory and code examples.
 * Each markdown file contains explanations, syntax, and use cases for various Java constructs.
 
+## Introduction to Java
+
+- [Java Introduction](JavaIntroduction.md)
+- [History of Java](JavaHistory.md)
+- [Benefits of Java](JavaBenefits.md)
+
 ## Control Flow Statements
 
 - [If-Else Statements](control-flow-statements/if-else/IfElseTheory.md)
