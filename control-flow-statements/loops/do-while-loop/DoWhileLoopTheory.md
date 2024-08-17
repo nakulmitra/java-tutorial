@@ -1,6 +1,8 @@
 # Do-While Loop in Java
 The do-while loop is a variation of the while loop in Java, designed to ensure that the code block inside the loop is executed at least once, even if the condition is false from the beginning. This is a key difference between the do-while loop and the standard while loop.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/nI2taTZaekk)](https://youtu.be/nI2taTZaekk)
+
 ## Syntax:
 ```
 do {

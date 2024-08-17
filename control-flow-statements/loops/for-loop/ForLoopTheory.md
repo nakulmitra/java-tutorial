@@ -1,6 +1,7 @@
 # For Loops in Java
-
 A for loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. It is particularly useful when you know in advance how many times you want to execute a statement or a block of statements.
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/oV7o5pzw4Zw)](https://youtu.be/oV7o5pzw4Zw)
 
 ## Syntax:
 The syntax of a for loop in Java is:

@@ -1,6 +1,8 @@
 # 🎯 Benefits of Java
 Java offers numerous benefits that have contributed to its widespread adoption in various industries and development environments. These advantages stem from its design principles, platform independence, and versatile ecosystem. Here’s a detailed overview of the key benefits of Java
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/ekrI2oq8hgI)](https://youtu.be/ekrI2oq8hgI)
+
 ## Platform Independence (Write Once, Run Anywhere)
 Java's most prominent benefit is its platform independence, which is achieved through the Java Virtual Machine (JVM). Unlike languages that are compiled directly into machine-specific code, Java is compiled into bytecode. This bytecode is platform-agnostic and can run on any system that has a compatible JVM installed, regardless of the underlying hardware or operating system.
 

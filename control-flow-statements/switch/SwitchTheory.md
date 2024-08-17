@@ -3,6 +3,8 @@
 ## Introduction:
 The switch statement in Java is a control flow statement that allows you to execute one of many code blocks based on the value of a variable. It's an alternative to using multiple if-else statements and provides a more readable and organized way to handle multiple conditions.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/JRRFJfGw_HM)](https://youtu.be/JRRFJfGw_HM)
+
 ### Switch Statement Syntax:
 ```
 switch (expression) {

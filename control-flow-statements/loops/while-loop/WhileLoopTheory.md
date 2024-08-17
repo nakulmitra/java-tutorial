@@ -3,6 +3,8 @@
 ## Introduction:
 Loops are a fundamental part of programming, allowing us to execute a block of code multiple times. In Java, the while loop is particularly useful when you need to repeat a task as long as a certain condition is true.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/w6Q9K-E_KmA)](https://youtu.be/w6Q9K-E_KmA)
+
 ## While Loop Syntax:
 ```
 while (condition) {

@@ -1,6 +1,8 @@
 # 🕰️ History of Java
 Java, one of the most popular programming languages today, has a rich history that spans several decades. It has evolved significantly from its initial development phase to becoming a widely used platform in modern software development.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/ekrI2oq8hgI)](https://youtu.be/ekrI2oq8hgI)
+
 ## The Origins (1990 - 1995)
 ### 1990 - The Beginning
 The roots of Java can be traced back to 1990 when a team of Sun Microsystems engineers, led by James Gosling, Mike Sheridan, and Patrick Naughton, began a project called the Green Project. Their goal was to create a language that could be used for digital devices like set-top boxes, interactive television, and other embedded systems. Initially, they aimed to develop a new computing platform for consumer electronic devices.
