@@ -1,5 +1,4 @@
 # Java Tutorial Repository
-
 Welcome to the Java Tutorial Repository! This repository contains detailed theory and code examples for various Java concepts. Whether you're a beginner or looking to brush up on your Java skills, you'll find valuable resources here to help you master Java programming.
 
 ## How to Use:
@@ -7,13 +6,11 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 * Each markdown file contains explanations, syntax, and use cases for various Java constructs.
 
 ## Introduction to Java
-
-- [Java Introduction](JavaIntroduction.md)
-- [History of Java](JavaHistory.md)
-- [Benefits of Java](JavaBenefits.md)
+- [Java Introduction](introduction-to-java/JavaIntroduction.md)
+- [History of Java](introduction-to-java/JavaHistory.md)
+- [Benefits of Java](introduction-to-java/JavaBenefits.md)
 
 ## Control Flow Statements
-
 - [If-Else Statements](control-flow-statements/if-else/IfElseTheory.md)
 - [Switch Statements](control-flow-statements/switch/SwitchTheory.md)
 - [While Loops](control-flow-statements/loops/while-loop/WhileLoopTheory.md)
