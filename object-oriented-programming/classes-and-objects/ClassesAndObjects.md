@@ -6,7 +6,7 @@ Object-Oriented Programming (OOP) is a programming paradigm that organizes softw
 * ``Class:`` A class is a template or blueprint from which objects are created. It encapsulates data for the object and methods to manipulate that data.
 * ``Object:`` An object is an instance of a class. It is a real-world entity that holds state (attributes) and behavior (methods).
 
-In simple terms, a class defines a type (such as a car), and objects are individual instances of that type (such as a specific car with attributes like color, model, and year).
+In simple terms, a class defines a type (such as a car), and objects are individual instances of that type (such as a specific car with attributes like `color`, `model`, and `year`).
 
 ## What is a Class in Java?
 A class in Java defines the properties and behaviors that objects created from the class will have. It's like a blueprint that defines the characteristics of the objects.
@@ -46,7 +46,7 @@ public class Car {
 ```
 
 In this `Car` class
-* ``Attributes:`` ``color`, `model`, and `year` represent the state of a car.
+* ``Attributes:`` `color`, `model`, and `year` represent the state of a car.
 * ``Method:`` `displayInfo()` is a behavior of the car that prints out its details.
 
 ## What is an Object in Java?
@@ -72,7 +72,7 @@ myCar.displayInfo();  // Call the method to display car details
 This code creates a `Car` object, assigns values to its attributes, and calls the `displayInfo()` method to print the car's details.
 
 ## Attributes and Methods in Java
-* `Attributes:` Also known as fields or instance variables, attributes store data about an object. For example, a car object might have attributes like color, model, and year.
+* `Attributes:` Also known as fields or instance variables, attributes store data about an object. For example, a car object might have attributes like `color`, `model`, and `year`.
 * `Methods:` Methods define the behavior or actions of an object. A method in a class performs a specific task, such as calculating values, modifying attributes, or interacting with other objects.
 
 ### Example
