@@ -1,5 +1,5 @@
 # Java Tutorial Repository
-[![Java Tutorial Overview](c:\Users\Nakul Mitra\Desktop\YouTube\Java Tutorial\java-tutorial\introduction-to-java\Java Overview.png)] (https://youtu.be/dWtt8E7VALY)
+[![Java Tutorial Overview](https://github.com/nakulmitra/java-tutorial/blob/master/introduction-to-java/Java%20Overview.png)] (https://youtu.be/dWtt8E7VALY)
 
 Welcome to the Java Tutorial Repository! This repository contains detailed theory and code examples for various Java concepts. Whether you're a beginner or looking to brush up on your Java skills, you'll find valuable resources here to help you master Java programming.
 
