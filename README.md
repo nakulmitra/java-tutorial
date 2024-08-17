@@ -4,7 +4,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 [![](https://markdown-videos-api.jorgenkh.no/youtube/dWtt8E7VALY)](https://youtu.be/dWtt8E7VALY)
 
 ## How to Use:
-* Click on the links below to explore each topic and explore the theory and code examples.
+* Click on the links below to explore each topic's theory, tutorial and code examples.
 * Each markdown file contains explanations, syntax, and use cases for various Java constructs.
 
 ## Introduction to Java
