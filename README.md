@@ -1,7 +1,7 @@
 # Java Tutorial Repository
 Welcome to the Java Tutorial Repository! This repository contains detailed theory and code examples for various Java concepts. Whether you're a beginner or looking to brush up on your Java skills, you'll find valuable resources here to help you master Java programming.
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dWtt8E7VALY)]([https://youtu.be/8lGpZkjnkt4](https://youtu.be/dWtt8E7VALY))
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dWtt8E7VALY)](https://youtu.be/dWtt8E7VALY)
 
 ## How to Use:
 * Click on the links below to explore each topic and explore the theory and code examples.
