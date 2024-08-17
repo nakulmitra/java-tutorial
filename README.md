@@ -18,9 +18,9 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Do-While Loops](control-flow-statements/loops/do-while-loop/DoWhileLoopTheory.md)
 
 ## Stay Connected:
-* ![alt text](YouTube-1.png) [Dev Portal](https://www.youtube.com/@DevPortal2114) 
+* [Dev Portal](https://www.youtube.com/@DevPortal2114)
 Subscribe for the latest Java tutorials.
-* ![alt text](LinkedIn-1.png) [LinkedIn Profile](https://www.linkedin.com/in/nakul-mitra-microservices-spring-boot-java-postgresql/)
+* [LinkedIn Profile](https://www.linkedin.com/in/nakul-mitra-microservices-spring-boot-java-postgresql/)
 Connect with me for more programming insights.
 
 Happy coding! If you found these resources helpful, please give this repo a star ⭐ and share it with others who are learning Java.
