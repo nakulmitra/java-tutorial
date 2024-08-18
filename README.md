@@ -11,8 +11,8 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Java Introduction](introduction-to-java/JavaIntroduction.md)
 - [History of Java](introduction-to-java/JavaHistory.md)
 - [Benefits of Java](introduction-to-java/JavaBenefits.md)
-- [Java Virtual Machine (JVM) Architecture](introduction-to-java/JVMArchitecture.md)
-- [JDK vs JRE vs JVM](introduction-to-java/JDKvsJREvsJVM.md)
+- [Java Virtual Machine (JVM) Architecture](introduction-to-java/jvm-architecture/JVMArchitecture.md)
+- [JDK vs JRE vs JVM](introduction-to-java/jdk-jre-jvm/JDKvsJREvsJVM.md)
 
 ## Control Flow Statements
 - [If-Else Statements](control-flow-statements/if-else/IfElseTheory.md)

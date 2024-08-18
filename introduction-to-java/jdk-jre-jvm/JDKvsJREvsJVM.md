@@ -1,6 +1,16 @@
 # JDK vs JRE vs JVM
 [![](https://markdown-videos-api.jorgenkh.no/youtube/lbyLT3KgkF0)](https://youtu.be/lbyLT3KgkF0)
 
+## Differences between JVM, JRE, and JDK
+![JVM Architecture](https://github.com/nakulmitra/java-tutorial/blob/master/introduction-to-java/jdk-jre-jvm/JDKvsJREvsJVM.png)
+
+|         Component         |   JVM (Java Virtual Machine) |   JRE (Java Runtime Environment)  |   JDK (Java Development Kit) |
+| ------------------------- | ---------------------------- | --------------------------------- | ---------------------------- |
+| Purpose  | Executes Java bytecode, provides a platform-independent execution environment.  | Provides everything required to run Java applications, including the JVM and libraries.                 | Provides tools for developing Java applications, including the JRE and development utilities.  |  
+| Contains  | Class loader, runtime data areas, execution engine, garbage collector, etc. | JVM, core libraries (Java API), and resources needed to run Java applications. | JRE, development tools (compiler, debugger, etc.), and additional libraries required for development. | 
+| Used By  | End users or environments where Java bytecode needs to be executed. | End users who need to run Java applications. | Java developers who need to write, compile, debug, and run Java code. | 
+| Development Tools  | No | No | Yes (compiler, debugger, etc.) | 
+
 ## Java Virtual Machine (JVM)
 The **Java Virtual Machine (JVM)** is the cornerstone of the Java programming language, playing a crucial role in Java's `write once, run anywhere` capability. It is responsible for running the compiled Java bytecode, making the same code executable across various platforms without requiring modifications.
 
@@ -39,14 +49,6 @@ The **Java Development Kit (JDK)** is the full-featured software development kit
 ### Components of JDK
 * `JRE:` Provides everything required to run Java applications.
 * `Development Tools:` Tools such as `javac` (the Java compiler), `jdb` (Java debugger), and `jarsigner` for signing JAR files.
-
-## Differences between JVM, JRE, and JDK
-|         Component         |   JVM (Java Virtual Machine) |   JRE (Java Runtime Environment)  |   JDK (Java Development Kit) |
-| ------------------------- | ---------------------------- | --------------------------------- | ---------------------------- |
-| Purpose  | Executes Java bytecode, provides a platform-independent execution environment.  | Provides everything required to run Java applications, including the JVM and libraries.                 | Provides tools for developing Java applications, including the JRE and development utilities.  |  
-| Contains  | Class loader, runtime data areas, execution engine, garbage collector, etc. | JVM, core libraries (Java API), and resources needed to run Java applications. | JRE, development tools (compiler, debugger, etc.), and additional libraries required for development. | 
-| Used By  | End users or environments where Java bytecode needs to be executed. | End users who need to run Java applications. | Java developers who need to write, compile, debug, and run Java code. | 
-| Development Tools  | No | No | Yes (compiler, debugger, etc.) | 
 
 ## Summary
 * ### JVM (Java Virtual Machine)
