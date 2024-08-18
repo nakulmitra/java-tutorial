@@ -17,11 +17,13 @@ The `byte` data type is called an 8-bit signed integer because it uses 8 bits to
 
 2. ### Binary Representation
 Since a `byte` uses 8 bits, there are **2^8** possible combinations of bits, which equals 256 unique values. These values range from **-128** to **127**.
-* #### Positive Values
+
+#### Positive Values
 * Positive numbers, including zero, are represented using simple binary numbers.
 * The binary representation of 0 is `00000000` and for 1, it's `00000001`.
 * The maximum positive value, 127, is represented as `01111111`.
-* #### Negative Values
+
+#### Negative Values
 * Negative numbers are represented using **two’s complement** notation.
 * The minimum negative value, -128, is represented as `10000000`.
 * The binary representation of -1 is `11111111`.
