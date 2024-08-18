@@ -11,6 +11,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Java Introduction](introduction-to-java/JavaIntroduction.md)
 - [History of Java](introduction-to-java/JavaHistory.md)
 - [Benefits of Java](introduction-to-java/JavaBenefits.md)
+- [Java Virtual Machine (JVM) Architecture](introduction-to-java/JVMArchitecture.md)
 
 ## Control Flow Statements
 - [If-Else Statements](control-flow-statements/if-else/IfElseTheory.md)
@@ -23,7 +24,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Introduction to Object-Oriented Programming](object-oriented-programming/introduction-to-oop/IntroductionToOOP.md)
 - [Classes and Objects in Java](object-oriented-programming/classes-and-objects/ClassesAndObjects.md)
 
-## Stay Connected:
+## Stay Connected
 * [Dev Portal](https://www.youtube.com/@DevPortal2114)
 Subscribe for the latest Java tutorials.
 * [LinkedIn Profile](https://www.linkedin.com/in/nakul-mitra-microservices-spring-boot-java-postgresql/)
