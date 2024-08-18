@@ -11,6 +11,8 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Java Introduction](introduction-to-java/JavaIntroduction.md)
 - [History of Java](introduction-to-java/JavaHistory.md)
 - [Benefits of Java](introduction-to-java/JavaBenefits.md)
+
+## Architecture
 - [Java Virtual Machine (JVM) Architecture](architecture/jvm-architecture/JVMArchitecture.md)
 - [JDK vs JRE vs JVM](architecture/jdk-jre-jvm/JDKvsJREvsJVM.md)
 
