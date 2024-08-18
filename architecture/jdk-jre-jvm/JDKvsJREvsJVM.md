@@ -2,7 +2,7 @@
 [![JDK vs JRE vs JVM](https://markdown-videos-api.jorgenkh.no/youtube/lbyLT3KgkF0)](https://youtu.be/lbyLT3KgkF0?autoplay=1)
 
 ## Differences between JVM, JRE, and JDK
-![JDK vs JRE vs JVM](https://github.com/nakulmitra/java-tutorial/blob/master/introduction-to-java/jdk-jre-jvm/JDKvsJREvsJVM.png)
+![JDK vs JRE vs JVM](https://github.com/nakulmitra/java-tutorial/blob/master/architecture/jdk-jre-jvm/JDKvsJREvsJVM.png)
 
 |         Component         |   JVM (Java Virtual Machine) |   JRE (Java Runtime Environment)  |   JDK (Java Development Kit) |
 | ------------------------- | ---------------------------- | --------------------------------- | ---------------------------- |
