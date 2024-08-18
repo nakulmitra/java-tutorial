@@ -14,6 +14,7 @@ The `byte` data type is mainly used to save memory in large arrays where memory 
 ## Understanding the byte Data Type
 1. ### 8-bit Signed Integer
 The `byte` data type is called an 8-bit signed integer because it uses 8 bits to represent the value, and one of these bits is reserved to represent the sign (whether the value is positive or negative). The remaining 7 bits are used to represent the actual number.
+
 2. ### Binary Representation
 Since a `byte` uses 8 bits, there are **2^8** possible combinations of bits, which equals 256 unique values. These values range from **-128** to **127**.
 * #### Positive Values
