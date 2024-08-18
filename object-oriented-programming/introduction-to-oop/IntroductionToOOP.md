@@ -1,5 +1,5 @@
 # Introduction to Object-Oriented Programming (OOP)
-`Object-Oriented Programming (OOP)` is a programming paradigm based on the concept of objects, which can contain both data (attributes) and functions (methods) to manipulate the data. This approach allows programmers to structure software in a way that closely mirrors real-world entities, making it easier to manage complexity in large software systems.
+**Object-Oriented Programming (OOP)** is a programming paradigm based on the concept of objects, which can contain both data (attributes) and functions (methods) to manipulate the data. This approach allows programmers to structure software in a way that closely mirrors real-world entities, making it easier to manage complexity in large software systems.
 
 Java, heavily relies on OOP principles to structure code in a way that promotes reusability, maintainability, and flexibility.
 
