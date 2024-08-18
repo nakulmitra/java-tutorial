@@ -72,13 +72,14 @@ String name = "abc";
 ```
 
 ## Rules for Naming Variables
-1. `Valid Characters:` Variable names can start with a letter, dollar sign ($), or an underscore (_). Subsequent characters can be letters, digits, dollar signs, or underscores.
-* `Example:` myAge, _counter, $balance.
+1. `Valid Characters:` Variable names can start with a letter, dollar sign ($), or an underscore (_). Subsequent characters can be letters, digits, dollar signs, or underscores. For example: `myAge`, `_counter`, `$balance`.
 2. `No Reserved Keywords:` Variable names cannot be any Java reserved keywords, such as `int`, `class`, `public`.
 3. `Case Sensitivity:` Java is case-sensitive, so `myAge` and `MyAge` would be treated as two different variables.
 4. `Meaningful Names:` It’s best practice to give your variables meaningful names that describe the data they store. For example:
-* Good: totalPrice
-* Bad: tp
+```
+int totalPrice; //Good
+int tp; //Bad
+```
 
 ## Primitive vs. Non-Primitive Data Types
 Java has two categories of data types: **Primitive** and **Non-Primitive**.
