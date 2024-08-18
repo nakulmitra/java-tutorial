@@ -20,6 +20,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Do-While Loops](control-flow-statements/loops/do-while-loop/DoWhileLoopTheory.md)
 
 ## Object Oriented Programming (OOP)
+- [Introduction to Object-Oriented Programming](object-oriented-programming/introduction-to-oop/IntroductionToOOP.md)
 - [Classes and Objects in Java](object-oriented-programming/classes-and-objects/ClassesAndObjects.md)
 
 ## Stay Connected:
