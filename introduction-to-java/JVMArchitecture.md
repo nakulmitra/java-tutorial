@@ -20,12 +20,10 @@ The Class Loader Subsystem is responsible for loading Java class files into the 
 ### Key Functions of Class Loader Subsystem
 1. #### Loading
 * The class loader reads the bytecode from `.class` files and loads them into the JVM memory.
-
 2. #### Linking
 * `Verify:` Ensures the bytecode follows the Java language specifications. If the verification fails, a `java.lang.VerifyError` is thrown.
 * `Prepare:` Allocates memory for class variables and assigns default values to them.
 * `Resolve:` Converts symbolic references in the bytecode to direct references in the JVM memory.
-
 3. #### Initialization
 * All static variables are assigned their original values, and static blocks are executed.
 
@@ -39,13 +37,9 @@ The JVM organizes memory into various runtime data areas, each serving a specifi
 
 ### Key Runtime Data Areas
 1. `Method Area` Stores class-level data, including static variables, constants, and method code. The method area is shared among all threads running in the JVM.
-
 2. `Heap` The heap is used for the dynamic allocation of objects. When a Java object is created using the `new` keyword, it is allocated memory in the heap. This area is also shared across all threads.
-
 3. `Stack` The stack is a thread-specific area where each thread has its own JVM stack. It stores frames, which contain local variables, operand stacks, and the return address of methods. Each time a method is called, a new frame is added to the stack, and once the method finishes execution, the frame is removed.
-
 4. `PC (Program Counter) Register` Each thread has its own PC register, which holds the address of the current JVM instruction being executed.
-
 5. `Native Method Stack` This area is used for storing native method information when the Java program interacts with native applications written in other languages like C or C++.
 
 ## Execution Engine
@@ -53,9 +47,7 @@ The **Execution Engine** is the component of the JVM responsible for executing t
 
 ### Key Components of the Execution Engine
 1. `Interpreter` The interpreter reads and executes bytecode instructions one at a time. Although simple to implement, it is slower in performance compared to other methods of execution.
-
 2. `Just-In-Time (JIT) Compiler` The JIT compiler improves performance by compiling bytecode into native machine code at runtime. It keeps track of methods being executed and, once a method is called frequently enough (crossing a threshold), the JIT compiler compiles it into native code. This results in faster execution as the JVM can now execute native code instead of interpreting bytecode repeatedly.
-
 3. `Garbage Collector (GC)` The garbage collector automatically manages memory by deallocating memory occupied by objects that are no longer in use (unreachable). The JVM provides different garbage collection algorithms to optimize memory management and performance.
 
 ## Native Interface
@@ -78,13 +70,9 @@ The JVM undergoes several stages during the lifecycle of a Java program
 
 ## Key Features of JVM
 The JVM offers several powerful features that make it an essential part of the Java platform
-
 1. `Platform Independence` The JVM enables Java programs to run on any device or operating system that has a JVM implementation. This is the essence of Java's **write once, run anywhere** philosophy.
-
 2. `Automatic Memory Management` The garbage collector (GC) automatically manages memory, freeing developers from having to manually allocate and deallocate memory.
-
 3. `Security` The JVM enforces strong security mechanisms through bytecode verification and runtime checks, protecting systems from malicious or erroneous code.
-
 4. `Performance Optimization` The JIT compiler and other optimizations in the execution engine allow the JVM to execute bytecode efficiently, improving the performance of Java applications.
 
 ## How JVM Works
@@ -96,4 +84,4 @@ When you run a Java program, the JVM follows these steps to execute it
 5. `Garbage Collection` Periodically, the garbage collector reclaims memory used by objects that are no longer reachable, freeing up resources.
 
 ## Conclusion
-The **Java Virtual Machine (JVM)** is a powerful component of the Java ecosystem, ensuring platform independence, efficient execution, and secure memory management. Understanding its architecture `class loading`, `memory areas`, `execution engine`, and `native interfaces` is crucial for developing robust and performant Java applications. The JVM enables Java's promise of "write once, run anywhere", making it a widely adopted and versatile platform for building applications across diverse environments.
+The **Java Virtual Machine (JVM)** is a powerful component of the Java ecosystem, ensuring platform independence, efficient execution, and secure memory management. Understanding its architecture `class loading`, `memory areas`, `execution engine`, and `native interfaces` is crucial for developing robust and performant Java applications. The JVM enables Java's promise of **write once, run anywhere**, making it a widely adopted and versatile platform for building applications across diverse environments.
