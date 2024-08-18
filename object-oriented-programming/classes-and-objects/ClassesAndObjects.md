@@ -8,6 +8,8 @@ Object-Oriented Programming (OOP) is a programming paradigm that organizes softw
 
 In simple terms, a class defines a type (such as a car), and objects are individual instances of that type (such as a specific car with attributes like `color`, `model`, and `year`).
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/MS0XssFYkf8)](https://youtu.be/MS0XssFYkf8)
+
 ## What is a Class in Java?
 A class in Java defines the properties and behaviors that objects created from the class will have. It's like a blueprint that defines the characteristics of the objects.
 
