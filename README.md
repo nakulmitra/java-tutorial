@@ -3,7 +3,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/dWtt8E7VALY)](https://youtu.be/dWtt8E7VALY)
 
-## How to Use:
+## How to Use
 * Click on the links below to explore each topic's theory, tutorial and code examples.
 * Each markdown file contains explanations, syntax, and use cases for various Java constructs.
 
@@ -15,6 +15,9 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 ## Architecture
 - [Java Virtual Machine (JVM) Architecture](architecture/jvm-architecture/JVMArchitecture.md)
 - [JDK vs JRE vs JVM](architecture/jdk-jre-jvm/JDKvsJREvsJVM.md)
+
+## Variables
+- [Introduction](variables/jvm-architecture/IntroductionToVaraibles.md)
 
 ## Control Flow Statements
 - [If-Else Statements](control-flow-statements/if-else/IfElseTheory.md)

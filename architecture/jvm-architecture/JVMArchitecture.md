@@ -1,4 +1,4 @@
-# Java Virtual Machine (JVM) Architecture
+# 🛠️ Java Virtual Machine (JVM) Architecture
 The Java Virtual Machine (JVM) is the core component of the Java platform, enabling Java programs to be executed on different operating systems and devices without modification. It plays a crucial role in making Java a **write once, run anywhere** language, by converting Java bytecode into machine-specific code. This allows Java applications to be run on any platform that has a JVM implementation, regardless of the underlying hardware or operating system.
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/MxVJct7hg1w)](https://youtu.be/MxVJct7hg1w)
