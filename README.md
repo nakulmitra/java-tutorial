@@ -17,7 +17,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [JDK vs JRE vs JVM](architecture/jdk-jre-jvm/JDKvsJREvsJVM.md)
 
 ## Variables
-- [Introduction](variables/jvm-architecture/IntroductionToVaraibles.md)
+- [Introduction](variables/IntroductionToVaraibles.md)
 
 ## Control Flow Statements
 - [If-Else Statements](control-flow-statements/if-else/IfElseTheory.md)
