@@ -12,6 +12,7 @@ The architecture of the JVM can be broken down into several key components:
 5. Native Method Libraries
 
 Each of these components plays a specific role in the functioning and execution of Java applications.
+![JVM Architecture](https://github.com/nakulmitra/java-tutorial/blob/master/introduction-to-java/JVMArchitecture.png)
 
 ## Class Loader Subsystem
 The Class Loader Subsystem is responsible for loading Java class files into the JVM memory. When you compile a Java program, the compiler generates bytecode, which is stored in `.class` files. The class loader reads these `.class` files and loads them into memory to be executed.
