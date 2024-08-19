@@ -20,6 +20,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Introduction](variables/IntroductionToVaraibles.md)
 - [Byte Data Type](variables/ByteDataType.md)
 - [Integral Data Types](variables/IntegralDataTypes.md)
+- [Floating-Point Data Types](variables/FloatingPointDataType.md)
 
 ## Control Flow Statements
 - [If-Else Statements](control-flow-statements/if-else/IfElseTheory.md)
