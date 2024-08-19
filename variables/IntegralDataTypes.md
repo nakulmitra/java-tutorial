@@ -1,5 +1,5 @@
 # Integral Data Types in Java
-n Java, **integral data types** are used to store whole numbers, both positive and negative. These data types are crucial for performing operations on integers in Java applications. Understanding their memory usage, value range, and use cases is essential for writing efficient code.
+In Java, **integral data types** are used to store whole numbers, both positive and negative. These data types are crucial for performing operations on integers in Java applications. Understanding their memory usage, value range, and use cases is essential for writing efficient code.
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/F-9LBTCWA9s)](https://youtu.be/F-9LBTCWA9s)
 
