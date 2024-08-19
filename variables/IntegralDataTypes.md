@@ -11,7 +11,7 @@ Java provides four integral data types, each differing in memory size and the ra
 
 Let’s go through each of these integral data types and understand their characteristics.
 
-1. ## `byte` Data Type
+## `byte` Data Type
 The `byte` data type is an **8-bit signed integer**. It is the smallest integral type in terms of memory usage, requiring only **1 byte (8 bits)** of memory to store a value.
 
 ### Characteristics
@@ -28,7 +28,7 @@ byte byteValue = 100;
 System.out.println("Byte value: " + byteValue);
 ```
 
-2. ## `short` Data Type
+## `short` Data Type
 The `short` data type is a **16-bit signed integer**. It provides a larger range than `byte`, while still being more memory-efficient than `int`.
 
 ### Characteristics
@@ -45,7 +45,7 @@ short shortValue = 10000;
 System.out.println("Short value: " + shortValue);
 ```
 
-3. ## `int` Data Type
+## `int` Data Type
 The `int` data type is a **32-bit signed integer** and is the most commonly used integral type in Java. By default, any whole number in Java is treated as an `int`, unless explicitly specified otherwise.
 
 ### Characteristics
@@ -62,7 +62,7 @@ int intValue = 100000;
 System.out.println("Int value: " + intValue);
 ```
 
-4. ## `long` Data Type
+## `long` Data Type
 The `long` data type is a **64-bit signed integer**, making it the largest integral type available in Java. It can store very large values that cannot fit within the range of an `int`.
 
 ### Characteristics
