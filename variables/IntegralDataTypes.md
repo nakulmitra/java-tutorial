@@ -8,6 +8,7 @@ Java provides four integral data types, each differing in memory size and the ra
 2. `short`
 3. `int`
 4. `long`
+
 Let’s go through each of these integral data types and understand their characteristics.
 
 1. ## `byte` Data Type
