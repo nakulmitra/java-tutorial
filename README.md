@@ -32,6 +32,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 ## Object Oriented Programming (OOP)
 - [Introduction to Object-Oriented Programming](object-oriented-programming/introduction-to-oop/IntroductionToOOP.md)
 - [Classes and Objects in Java](object-oriented-programming/classes-and-objects/ClassesAndObjects.md)
+- [Constructors in Java](object-oriented-programming/constructors/Constructors.md)
 
 ## Latest tutorial
 [![Classes and Objects](https://markdown-videos-api.jorgenkh.no/youtube/MS0XssFYkf8)](https://youtu.be/MS0XssFYkf8?autoplay=1)
