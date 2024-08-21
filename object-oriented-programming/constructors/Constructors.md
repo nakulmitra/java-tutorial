@@ -1,6 +1,8 @@
 # Constructors in Java
 In object-oriented programming, constructors play a crucial role in initializing new objects. A constructor is a special method that is automatically called when an instance of a class (an object) is created. Unlike other methods, constructors have some unique properties that distinguish them from regular methods.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/cOMGgILRP-E)](https://youtu.be/cOMGgILRP-E)
+
 ## Key Characteristics of Constructors
 1. `Same Name as Class:` A constructor must have the same name as the class in which it is defined.
 2. `No Return Type:` Constructors do not have a return type, not even `void`.
