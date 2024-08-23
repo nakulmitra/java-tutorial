@@ -124,4 +124,4 @@ Encapsulation is a key aspect of Java’s object-oriented design. It helps to cr
 
 Encapsulation, along with inheritance, polymorphism, and abstraction, forms the backbone of OOP in Java, enabling developers to build flexible and scalable applications.
 
-[< Constructors in Java](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/constructors/Constructors.md)
+[< Previous](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/constructors/Constructors.md)
