@@ -134,3 +134,5 @@ public class Main {
 
 ## Summary
 Constructors are special methods that are invoked when an object is created. They initialize the object's attributes and prepare the object for use. In Java, constructors can be default or parameterized, and constructor overloading allows for multiple ways to create objects with different initial states. Understanding and using constructors effectively is essential for proper object-oriented programming in Java.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/classes-and-objects/ClassesAndObjects.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/encapsulation/Encapsulation.md)

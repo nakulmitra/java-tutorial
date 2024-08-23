@@ -67,3 +67,5 @@ Oracle adopted a new release cadence for Java, aiming for feature releases every
 
 ## 2020 - Present
 Java continues to evolve with regular feature releases (Java 14, 15, 16, etc.) bringing enhancements such as Records, Pattern Matching, and Text Blocks. Oracle and the open-source community continue to maintain Java, ensuring its longevity and relevance in modern software development.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/introduction-to-java/JavaIntroduction.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/introduction-to-java/JavaBenefits.md)

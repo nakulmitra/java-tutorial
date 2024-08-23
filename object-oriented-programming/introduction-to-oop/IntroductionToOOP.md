@@ -143,3 +143,5 @@ In this example, although the reference type is `Animal`, the method of the `Dog
 * `Polymorphism` allows flexibility in method calls and handling different objects through a unified interface.
 
 These core principles form the backbone of Java's design and contribute to its popularity in developing large-scale, maintainable software systems. Understanding and mastering these concepts is crucial for any Java programmer aiming to develop robust and scalable applications.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/loops/do-while-loop/DoWhileLoopTheory.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/classes-and-objects/ClassesAndObjects.md)

@@ -54,3 +54,5 @@ The do-while loop is particularly useful in scenarios where user interaction is 
 
 ### 2. Input Validation: 
 It's also effective for input validation, ensuring that the user is prompted for input at least once before any checks are performed.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/loops/for-loop/ForLoopTheory.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/introduction-to-oop/IntroductionToOOP.md)

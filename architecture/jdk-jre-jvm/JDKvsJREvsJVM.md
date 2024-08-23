@@ -66,3 +66,5 @@ The **Java Development Kit (JDK)** is the full-featured software development kit
 
 ## Conclusion
 The understanding of **JVM**, **JRE**, and **JDK** is essential for anyone working with Java. The JVM provides the core execution engine, while the JRE offers the runtime environment to run Java applications. For Java development, the JDK is indispensable as it includes everything needed to write, compile, and debug programs. Knowing the distinction between these three components will help you determine what is needed in different situations: JDK for development, JRE for running applications, and JVM as the execution engine.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/architecture/jvm-architecture/JVMArchitecture.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/variables/IntroductionToVaraibles.md)

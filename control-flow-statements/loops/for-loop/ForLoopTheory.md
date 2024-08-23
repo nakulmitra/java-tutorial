@@ -61,3 +61,5 @@ For loops can be used for a variety of tasks, such as iterating over arrays, col
 * Counting iterations: When you need to perform an action a specific number of times.
 * Traversing arrays or collections: When you need to access each element in an array or a collection.
 * Performing repetitive tasks: When you need to repeat a block of code multiple times.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/loops/while-loop/WhileLoopTheory.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/loops/do-while-loop/DoWhileLoopTheory.md)

@@ -82,3 +82,5 @@ switch (day) {
 ### Organization:
 * Switch statements help organize code by grouping related conditions together.
 * This makes it easier to manage and update code, especially in large programs.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/if-else/IfElseTheory.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/tree/master/control-flow-statements/loops/while-loop)

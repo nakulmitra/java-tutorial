@@ -113,3 +113,5 @@ In summary, Java provides four integral data types (`byte`, `short`, `int`, and 
 * `long:` Used for very large numbers beyond the range of int.
 
 Choosing the appropriate integral data type is essential for creating efficient and performant Java programs. Consider both the range of values you need and the memory constraints when selecting the data type for your variables.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/variables/ByteDataType.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/variables/FloatingPointDataType.md)

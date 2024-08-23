@@ -47,3 +47,5 @@ Java’s cross-platform capability is not limited to desktops. Java has a wide r
 * ``Mobile devices:`` Through Android, which is based on Java, making Java one of the top languages for mobile development.
 * ``Web applications:`` Using frameworks like Spring Boot for developing RESTful web services and JavaServer Pages (JSP) and Servlets for dynamic web content.
 * ``Enterprise applications:`` Java Enterprise Edition (now Jakarta EE) is used to build large-scale distributed systems, making Java a preferred choice for developing enterprise-level applications.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/introduction-to-java/JavaHistory.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/architecture/jvm-architecture/JVMArchitecture.md)

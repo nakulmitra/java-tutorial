@@ -97,3 +97,4 @@ While Java is often called an object-oriented programming language, it’s not p
 * **Static methods** can be called without creating an object of the class, which deviates from the OOP principle where everything should be an object.
 Thus, Java is considered a **mixed-paradigm** language, supporting **object-oriented**, **procedural**, and **functional programming** (with features like lambda expressions and functional interfaces introduced in Java 8).
 
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/architecture/jdk-jre-jvm/JDKvsJREvsJVM.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/variables/ByteDataType.md)

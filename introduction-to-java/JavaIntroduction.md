@@ -95,3 +95,5 @@ Arrays.sort(numbers);
 2. ``Method Parameters and Return Types:`` Methods can have parameters and return values. Parameters are variables passed to the method, and the return type defines the type of value the method returns.
 3. ``Method Overloading:`` Method overloading allows a class to have multiple methods with the same name but different parameters.
 4. ``Recursion:`` Recursion is a technique in which a method calls itself to solve a problem.
+
+[< Previous](https://github.com/nakulmitra/java-tutorial) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/introduction-to-java/JavaHistory.md)

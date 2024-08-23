@@ -85,3 +85,5 @@ When you run a Java program, the JVM follows these steps to execute it
 
 ## Conclusion
 The **Java Virtual Machine (JVM)** is a powerful component of the Java ecosystem, ensuring platform independence, efficient execution, and secure memory management. Understanding its architecture `class loading`, `memory areas`, `execution engine`, and `native interfaces` is crucial for developing robust and performant Java applications. The JVM enables Java's promise of **write once, run anywhere**, making it a widely adopted and versatile platform for building applications across diverse environments.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/introduction-to-java/JavaBenefits.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/architecture/jdk-jre-jvm/JDKvsJREvsJVM.md)

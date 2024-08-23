@@ -76,3 +76,6 @@ In summary, the byte data type in Java
 * Occupies 8 bits of memory.
 * Uses two's complement to represent both positive and negative integers.
 * Has a range from -128 to 127.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/variables/IntroductionToVaraibles.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/variables/IntegralDataTypes.md)
+
