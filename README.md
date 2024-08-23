@@ -33,6 +33,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Introduction to Object-Oriented Programming](object-oriented-programming/introduction-to-oop/IntroductionToOOP.md)
 - [Classes and Objects in Java](object-oriented-programming/classes-and-objects/ClassesAndObjects.md)
 - [Constructors in Java](object-oriented-programming/constructors/Constructors.md)
+- [Encapsulation in Java](object-oriented-programming/encapsulation/Encapsulation.md)
 
 ## Latest tutorial
 [![Classes and Objects](https://markdown-videos-api.jorgenkh.no/youtube/MS0XssFYkf8)](https://youtu.be/MS0XssFYkf8?autoplay=1)
@@ -44,4 +45,4 @@ Subscribe for the latest Java tutorials.
 Connect with me for more programming insights.
 
 Happy coding! If you found these resources helpful, please give this repo a star ⭐ and share it with others who are learning Java.
-
+                                                                                                                  
