@@ -123,3 +123,5 @@ In this example, the `Car` class encapsulates the details of a car. The fields `
 Encapsulation is a key aspect of Java’s object-oriented design. It helps to create secure, modular, and maintainable code by restricting access to the internal state of an object and providing controlled ways to interact with it. Through encapsulation, Java allows developers to hide the complexities of data handling and ensures that objects can be used in a reliable manner.
 
 Encapsulation, along with inheritance, polymorphism, and abstraction, forms the backbone of OOP in Java, enabling developers to build flexible and scalable applications.
+
+[< Constructors in Java](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/constructors/Constructors.md)
