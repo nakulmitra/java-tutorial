@@ -36,8 +36,9 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Encapsulation in Java](object-oriented-programming/encapsulation/Encapsulation.md)
 - [Inheritance in Java](object-oriented-programming/inheritance/Inheritance.md)
 
-## Latest tutorial
-[![Classes and Objects](https://markdown-videos-api.jorgenkh.no/youtube/MS0XssFYkf8)](https://youtu.be/MS0XssFYkf8?autoplay=1)
+## YouTube playlists
+* [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
+* [Object-Oriented Programming (OOP) in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbF2t_O8w2Kjx0R7qYTA2XB)
 
 ## Stay Connected
 * [Dev Portal](https://www.youtube.com/@DevPortal2114)
