@@ -108,3 +108,5 @@ While Java doesn’t support multiple inheritance, it offers interfaces as a way
 Inheritance is a powerful feature of Object-Oriented Programming that promotes code reuse and establishes a hierarchy of classes. By inheriting from a superclass, a subclass can reuse methods and fields while also extending or modifying them.
 
 Understanding inheritance enables you to write more organized and maintainable code. Try applying inheritance in your projects to create well-structured systems.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/encapsulation/Encapsulation.md)
