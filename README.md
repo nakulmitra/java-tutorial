@@ -35,6 +35,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Constructors in Java](object-oriented-programming/constructors/Constructors.md)
 - [Encapsulation in Java](object-oriented-programming/encapsulation/Encapsulation.md)
 - [Inheritance in Java](object-oriented-programming/inheritance/Inheritance.md)
+- [Method Overriding in Java](object-oriented-programming/method-overriding/MethodOverriding.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
