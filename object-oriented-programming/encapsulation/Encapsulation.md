@@ -1,6 +1,8 @@
 # Encapsulation in Java
 Encapsulation is one of the fundamental principles of Object-Oriented Programming (OOP) in Java. It is the process of wrapping code (methods) and data (variables) together into a single unit, usually in the form of a class. Encapsulation helps to control the access and modification of data by restricting direct access to the internal state of an object. Instead, the state is accessed and modified through public methods, often called "getters" and "setters."
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/XuW8XpB2h9o)](https://youtu.be/XuW8XpB2h9o)
+
 ## Purpose of Encapsulation
 The primary purpose of encapsulation is to hide the internal representation (state) of an object and to protect the object’s integrity by preventing unauthorized access or modification. Encapsulation provides the following key benefits:
 * `Data Protection:` The internal state of an object is hidden from the outside world, ensuring that its data cannot be changed inadvertently.
