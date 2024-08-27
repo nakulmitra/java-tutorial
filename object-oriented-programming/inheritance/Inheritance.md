@@ -1,6 +1,8 @@
 # Inheritance in Java
 Inheritance is a core concept in Object-Oriented Programming (OOP) that allows one class to inherit the fields (attributes) and methods (behavior) of another class. It facilitates code reusability, a natural hierarchy, and method overriding, enabling developers to build more complex systems in a structured and efficient way.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/zRcNAUUXl4s)](https://youtu.be/zRcNAUUXl4s)
+
 ## What is Inheritance?
 Inheritance allows a class (referred to as the **subclass** or **child class**) to inherit attributes and methods from another class (called the **superclass** or **parent class**). This allows the child class to automatically gain the functionality and properties of the parent class while also adding its own unique features.
 * **Superclass:** The class being inherited from.
