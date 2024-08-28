@@ -36,6 +36,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Encapsulation in Java](object-oriented-programming/encapsulation/Encapsulation.md)
 - [Inheritance in Java](object-oriented-programming/inheritance/Inheritance.md)
 - [Method Overriding in Java](object-oriented-programming/method-overriding/MethodOverriding.md)
+- [Compile-Time Polymorphism in Java (Method Overloading)](object-oriented-programming/method-overloading/MethodOverloading.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
