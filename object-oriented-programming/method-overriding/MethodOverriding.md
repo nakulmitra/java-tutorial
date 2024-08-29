@@ -1,6 +1,8 @@
 # Method Overriding in Java
 Method overriding is a fundamental concept in Object-Oriented Programming (OOP) that enables a subclass to provide a specific implementation of a method that is already defined in its superclass. It plays a crucial role in achieving runtime polymorphism in Java.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/2vaBwAuraNM)](https://youtu.be/2vaBwAuraNM)
+
 ## Key Concepts
 * **Inheritance:** Method overriding occurs only when there is inheritance, meaning a subclass inherits the methods and properties from a superclass.
 * **Same Method Signature:** For method overriding to occur, the method in the subclass must have the same name, return type, and parameters as the method in the superclass.
