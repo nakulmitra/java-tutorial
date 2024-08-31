@@ -111,4 +111,4 @@ Inheritance is a powerful feature of Object-Oriented Programming that promotes c
 
 Understanding inheritance enables you to write more organized and maintainable code. Try applying inheritance in your projects to create well-structured systems.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/encapsulation/Encapsulation.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/method-overriding/MethodOverriding.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/encapsulation/Encapsulation.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/polymorphism/Polymorphism.md)
