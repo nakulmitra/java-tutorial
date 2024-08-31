@@ -136,3 +136,5 @@ class Dog extends Animal {
 * `Method Overriding (Runtime Polymorphism)`: Occurs when a subclass provides a specific implementation for a method defined in its superclass. It is resolved at runtime.
 
 Polymorphism allows developers to design more flexible and maintainable code, making OOP powerful in creating scalable and adaptable systems.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/inheritance/Inheritance.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/method-overriding/MethodOverriding.md)
