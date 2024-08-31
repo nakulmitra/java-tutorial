@@ -35,6 +35,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Constructors in Java](object-oriented-programming/constructors/Constructors.md)
 - [Encapsulation in Java](object-oriented-programming/encapsulation/Encapsulation.md)
 - [Inheritance in Java](object-oriented-programming/inheritance/Inheritance.md)
+- [Polymorphism in Java](object-oriented-programming/polymorphism/Polymorphism.md)
 - [Method Overriding in Java](object-oriented-programming/method-overriding/MethodOverriding.md)
 - [Compile-Time Polymorphism in Java (Method Overloading)](object-oriented-programming/method-overloading/MethodOverloading.md)
 

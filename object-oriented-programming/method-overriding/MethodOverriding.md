@@ -116,4 +116,4 @@ In this example, `Car` and `Bike` classes both override the `start()` method of 
 ## Conclusion
 Method overriding is an essential feature in Java that allows subclasses to modify the behavior of inherited methods, enhancing the flexibility and modularity of your code. By mastering method overriding, you can effectively implement polymorphism and build robust, maintainable object-oriented systems.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/inheritance/Inheritance.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/polymorphism/Polymorphism.md)
