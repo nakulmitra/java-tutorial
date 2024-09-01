@@ -88,4 +88,4 @@ In this example, the initial if condition number > 5 is false, so the program ch
 
 These control flow statements are fundamental for implementing decision-making logic in Java programs. By using if, else, and else if statements, you can create dynamic and flexible code that responds to different conditions and inputs effectively.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/variables/FloatingPointDataType.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/switch/SwitchTheory.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/variables/VariablesTypes.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/switch/SwitchTheory.md)
