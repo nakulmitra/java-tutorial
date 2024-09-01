@@ -103,4 +103,4 @@ The choice between `float` and `double` depends on the specific requirements of 
 
 By understanding the differences and use cases of each type, we can make more informed decisions when writing Java programs that handle real numbers.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/variables/IntegralDataTypes.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/if-else/IfElseTheory.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/variables/IntegralDataTypes.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/variables/VariablesTypes.md)
