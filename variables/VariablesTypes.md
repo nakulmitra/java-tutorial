@@ -4,6 +4,8 @@ In Java, variables are used to store data that can be manipulated by the program
 * Instance Variables
 * Static Variables (Class Variables)
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/LvmW2KqCjGI)](https://youtu.be/LvmW2KqCjGI)
+
 ## Local Variables
 `Definition:` Local variables are declared within a method, constructor, or block of code and are only accessible within that scope. These variables are temporary and only exist during the execution of the method or block in which they are defined.
 
