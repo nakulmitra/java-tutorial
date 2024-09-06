@@ -1,20 +1,20 @@
 # Runtime Polymorphism in Java
 **Runtime Polymorphism** is one of the core concepts of Object-Oriented Programming (OOP) that enables dynamic behavior in programs. In Java, runtime polymorphism is achieved through method overriding. It allows a method to be invoked based on the actual object (or instance) at runtime, rather than the reference type determined during compile time. This is a powerful feature that enables flexible and extensible code.
 
-Key Concepts of Runtime Polymorphism:
-## Method Overriding
+## Key Concepts of Runtime Polymorphism
+### Method Overriding
 * Method overriding occurs when a subclass provides its own implementation of a method that is already defined in its superclass.
 * The overriding method must have the same name, return type, and parameters as the method in the superclass.
 * The `@Override` annotation is often used to indicate that a method is being overridden.
 
-## Dynamic Binding
+### Dynamic Binding
 * In runtime polymorphism, the method call is resolved at runtime rather than compile-time.
 * This is known as `dynamic binding` or `late binding`. At runtime, the JVM determines the actual object that the reference is pointing to and invokes the appropriate method.
 
-## Parent Class Reference, Child Class Object
+### Parent Class Reference, Child Class Object
 Runtime polymorphism is often implemented by using a parent class reference to point to a child class object. Even though the reference type is of the parent class, the method called will be the one in the child class.
 
-### Syntax and Example
+#### Syntax and Example
 Below is a basic example that demonstrates runtime polymorphism using method overriding
 ```
 class Animal {
@@ -52,7 +52,7 @@ public class Main {
     }
 }
 ```
-### Explanation
+#### Explanation
 * Here, `Animal` is the parent class, and both `Dog` and `Cat` are subclasses that override the `sound()` method.
 * Even though the reference variable `animal` is of type `Animal`, it points to `Dog` and `Cat` objects at runtime, and the overridden methods in the respective subclasses are invoked.
 
