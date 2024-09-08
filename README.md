@@ -40,6 +40,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Method Overriding in Java](object-oriented-programming/method-overriding/MethodOverriding.md)
 - [Compile-Time Polymorphism in Java (Method Overloading)](object-oriented-programming/method-overloading/MethodOverloading.md)
 - [Runtime Polymorphism in Java](object-oriented-programming/runtime-polymorphism/RuntimePolymorphism.md)
+- [Interfaces in Java](object-oriented-programming/interfaces/Interfaces.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
