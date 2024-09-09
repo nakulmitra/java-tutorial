@@ -1,6 +1,8 @@
 # Interfaces in Java
 In Java, interfaces are one of the key mechanisms for achieving abstraction and flexibility in Object-Oriented Programming (OOP). An interface defines a contract or blueprint for classes, specifying the methods that a class must implement but without defining how these methods should behave. Interfaces are used to provide a way to achieve abstraction, multiple inheritance, and polymorphism in Java.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/D2Hh6UDUexE)](https://youtu.be/D2Hh6UDUexE)
+
 ## Definition of an Interface
 An interface in Java is a reference type, similar to a class, that can contain:
 * Abstract methods (methods without a body)
