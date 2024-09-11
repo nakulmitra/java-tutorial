@@ -42,6 +42,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Runtime Polymorphism in Java](object-oriented-programming/runtime-polymorphism/RuntimePolymorphism.md)
 - [Interfaces in Java](object-oriented-programming/interfaces/Interfaces.md)
 - [Example: Payment System Interface](object-oriented-programming/interfaces/InterfacesExample.md)
+- [Abstract Classes in Java](object-oriented-programming/abstract/AbstractClasses.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
