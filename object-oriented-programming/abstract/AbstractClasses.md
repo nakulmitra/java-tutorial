@@ -23,10 +23,10 @@ abstract class ClassName {
 ```
 
 ## Characteristics of Abstract Classes
-* `Cannot be instantiated:` You cannot create an object of an abstract class directly.
-* `Can have both abstract and concrete methods:` This flexibility allows you to define behaviors that are common to all subclasses while leaving specific implementations to the subclasses.
+* `Cannot be instantiated:` We cannot create an object of an abstract class directly.
+* `Can have both abstract and concrete methods:` This flexibility allows us to define behaviors that are common to all subclasses while leaving specific implementations to the subclasses.
 * `Can contain constructors:` Even though abstract classes cannot be instantiated, they can still have constructors, which can be used by subclasses.
-* `Can have fields and methods:` Unlike interfaces, abstract classes can contain fields, making them suitable for situations where you want to share state among subclasses.
+* `Can have fields and methods:` Unlike interfaces, abstract classes can contain fields, making them suitable for situations where we want to share state among subclasses.
 * `Supports inheritance:` Abstract classes can extend other classes and be extended by other classes.
 
 ## Abstract Methods
@@ -111,14 +111,14 @@ public class Main {
 
 ## When to Use Abstract Classes
 Use an abstract class when:
-* You want to provide common behavior (using concrete methods) and enforce that certain methods must be implemented (using abstract methods).
+* We want to provide common behavior (using concrete methods) and enforce that certain methods must be implemented (using abstract methods).
 * The classes extending the abstract class share a strong hierarchical relationship.
 * We need to share state (fields) among the classes.
 
 ## Best Practices for Using Abstract Classes
-* `Design for abstraction:` Only create abstract classes when you have a strong reason to define shared behavior among a group of related classes.
+* `Design for abstraction:` Only create abstract classes when we have a strong reason to define shared behavior among a group of related classes.
 * `Use abstract classes to model hierarchical relationships:` Abstract classes work best when there is a clear "is-a" relationship between the parent and child classes.
-* `Leverage constructors in abstract classes:` You can use constructors in abstract classes to initialize common properties for subclasses.
+* `Leverage constructors in abstract classes:` We can use constructors in abstract classes to initialize common properties for subclasses.
 * `Avoid overusing abstract classes:` In some cases, interfaces may provide a more flexible and modular design compared to abstract classes.
 
 ## Conclusion
