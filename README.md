@@ -43,6 +43,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Interfaces in Java](object-oriented-programming/interfaces/Interfaces.md)
 - [Example: Payment System Interface](object-oriented-programming/interfaces/InterfacesExample.md)
 - [Abstract Classes in Java](object-oriented-programming/abstract/AbstractClasses.md)
+- [Abstract Classes vs Interfaces in Java: A Detailed Comparison](object-oriented-programming/abstractclassesvsinterfaces/AbstractClassesVsInterfaces.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
