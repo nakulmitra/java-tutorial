@@ -7,12 +7,12 @@ In Java, abstract classes and interfaces are two fundamental concepts used to im
 * `Interfaces:` Interfaces define a contract that any implementing class must adhere to, but they don't specify how the methods should be implemented. They are primarily used to achieve total abstraction and to define methods that unrelated classes can implement. Interfaces are useful when you want to specify a behavior across multiple, potentially unrelated, classes.
 
 ## Methods
-* `Abstract Classes`
+### `Abstract Classes`
 * Can contain both abstract methods (without a body) and concrete methods (with a body).
 * Subclasses are required to implement the abstract methods.
 * Concrete methods provide default behavior that can be used or overridden by subclasses.
 
-* `Interfaces`
+### `Interfaces`
 * Prior to Java 8, interfaces could only contain abstract methods.
 * Since Java 8, interfaces can have default methods (with a body) and static methods.
 * Abstract methods in an interface must be implemented by the implementing class.
