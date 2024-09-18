@@ -1,6 +1,8 @@
 # Abstract Classes in Java: A Detailed Explanation
 In Java, abstraction is one of the core concepts of Object-Oriented Programming (OOP). It allows us to simplify complex systems by focusing on what an object does instead of how it performs its tasks. One of the primary ways to achieve abstraction in Java is through the use of abstract classes and interfaces.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/QQF6_aG88kY)](https://youtu.be/QQF6_aG88kY)
+
 In this document, we'll focus on **abstract classes**—their definition, usage, and how they differ from interfaces. We'll also explore practical examples to demonstrate how abstract classes contribute to building flexible and maintainable code.
 
 ## What is an Abstract Class?

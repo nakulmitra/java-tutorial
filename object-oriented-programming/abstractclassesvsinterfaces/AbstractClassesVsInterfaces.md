@@ -1,6 +1,8 @@
 # Abstract Classes vs Interfaces in Java
 In Java, abstract classes and interfaces are two fundamental concepts used to implement abstraction and achieve polymorphism. They play a critical role in defining the structure and behavior of Java applications. Understanding the differences between them and knowing when to use each is key to mastering Object-Oriented Programming (OOP) in Java. This detailed guide explains the main distinctions between abstract classes and interfaces and provides use cases, benefits, and practical examples.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/pARL1d3tS2Y)](https://youtu.be/pARL1d3tS2Y)
+
 ## Purpose and Design Philosophy
 * `Abstract Classes:` Abstract classes are designed to serve as a blueprint for other classes. They allow you to define some common functionality (through concrete methods) and also enforce that subclasses provide their own implementation for certain behaviors (through abstract methods). They are ideal for situations where you need shared behavior among a group of related classes.
 
