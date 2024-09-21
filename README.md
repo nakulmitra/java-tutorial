@@ -45,6 +45,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Abstract Classes in Java](object-oriented-programming/abstract/AbstractClasses.md)
 - [Abstract Classes vs Interfaces in Java: A Detailed Comparison](object-oriented-programming/abstractclassesvsinterfaces/AbstractClassesVsInterfaces.md)
 - [Abstract Classes and Interfaces Together in Java](object-oriented-programming/abstractandinterfaces/AbstractAndInterfaces.md)
+- [Nested Classes in Java](object-oriented-programming/nestedclasses/NestedClasses.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
