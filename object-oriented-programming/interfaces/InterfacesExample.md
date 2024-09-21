@@ -78,3 +78,5 @@ In this example, a `Payment` reference is used to refer to different payment typ
 
 ## Conclusion
 Interfaces are a powerful tool in Java that allow you to achieve abstraction, support multiple inheritance, and facilitate polymorphism. By defining behavior in an interface, you ensure that any class that implements the interface adheres to the specified contract, making your system more modular and scalable.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/interfaces/Interfaces.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/abstract/AbstractClasses.md)

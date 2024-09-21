@@ -134,3 +134,5 @@ public class Main {
 * The design of this system allows for future extensibility. For example, adding a new payment method like Apple Pay would simply involve extending the `Payment` class and optionally implementing the `Refundable` interface.
 
 This example demonstrates how abstract classes and interfaces can work together to design robust, maintainable, and scalable systems in Java.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/abstractclassesvsinterfaces/AbstractClassesVsInterfaces.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/nestedclasses/NestedClasses.md)

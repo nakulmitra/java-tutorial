@@ -144,3 +144,5 @@ In this example, both `Dog` and `Cat` objects are referenced by the `Animal` int
 
 ## Conclusion
 Interfaces are a fundamental part of Java's OOP framework, providing powerful tools for abstraction, multiple inheritance, and polymorphism. By defining common behavior through interfaces, Java developers can create more modular, maintainable, and flexible code.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/runtime-polymorphism/RuntimePolymorphism.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/interfaces/InterfacesExample.md)

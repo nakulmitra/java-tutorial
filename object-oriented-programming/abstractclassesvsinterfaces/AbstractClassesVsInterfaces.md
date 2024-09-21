@@ -160,3 +160,5 @@ Both abstract classes and interfaces are essential tools for implementing abstra
 * Use interfaces when you want to define a contract that can be implemented by any class, regardless of its place in the class hierarchy.
 
 Understanding these differences will help you design more flexible, scalable, and maintainable Java applications.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/abstract/AbstractClasses.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/abstractandinterfaces/AbstractAndInterfaces.md)

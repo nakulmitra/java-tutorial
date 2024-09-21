@@ -125,3 +125,5 @@ Use an abstract class when:
 
 ## Conclusion
 Abstract classes are a powerful tool in Java for achieving abstraction and designing maintainable, reusable code. By defining both abstract and concrete methods, they allow us to model shared behaviors while enforcing specific functionality to be implemented by subclasses. Abstract classes form the foundation of many object-oriented designs, making them an essential concept for any Java developer.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/interfaces/InterfacesExample.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/abstractclassesvsinterfaces/AbstractClassesVsInterfaces.md)
