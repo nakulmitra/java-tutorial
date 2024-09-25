@@ -124,4 +124,4 @@ In this example, an anonymous class is used to implement the `Greet` interface a
 ## Conclusion
 Nested and inner classes in Java are powerful way for organizing and structuring our code. They allow for encapsulating logic in a more modular and readable manner. By choosing the appropriate type of nested class whether static, non-static, local, or anonymous. We can create more efficient and maintainable code. Understanding when to use each type of nested class is key to writing cleaner, more modular Java programs.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/abstractandinterfaces/AbstractAndInterfaces.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/abstractandinterfaces/AbstractAndInterfaces.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/static-members/StaticMembers.md)
