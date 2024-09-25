@@ -121,4 +121,4 @@ In this example, the static block initializes the value variable before any obje
 
 Together, these static members provide powerful tools for managing class-level behavior, reducing redundancy, and optimizing memory usage in Java applications.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/nestedclasses/NestedClasses.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/abstractandinterfaces/AbstractAndInterfaces.md)
