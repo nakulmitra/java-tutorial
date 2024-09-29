@@ -30,7 +30,7 @@ public class Main {
 ```
 In this example, `StaticNestedClass` can be instantiated directly using the outer class name (`OuterClass.StaticNestedClass`), and it does not depend on any instance of `OuterClass`.
 
-** Use case:** Static nested classes are typically used when the behavior of the nested class does not depend on an instance of the outer class and is logically independent of the outer class instance.
+**Use case:** Static nested classes are typically used when the behavior of the nested class does not depend on an instance of the outer class and is logically independent of the outer class instance.
 
 ## Non-static Inner Classes
 A **non-static inner class** is an instance-level class that has access to both static and non-static members of the outer class. To create an instance of a non-static inner class, an instance of the outer class must first be created.
