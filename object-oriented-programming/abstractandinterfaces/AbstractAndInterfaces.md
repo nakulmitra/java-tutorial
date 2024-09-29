@@ -4,6 +4,8 @@ In Java, abstract classes and interfaces serve distinct but complementary roles 
 ## Real-World Example: Payment Processing System
 Imagine we are building a **Payment Processing System** with various payment methods such as **Credit Card**, **PayPal**, and **Bank Transfer**. Some payment methods support refunds, while others do not. We can use abstract classes to define the core payment behavior and interfaces to define additional behaviors like refunds.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/jXSn3jlNkMI)](https://youtu.be/jXSn3jlNkMI)
+
 ## Abstract Class for Core Payment Logic
 First, we define an abstract class called `Payment`, which will serve as the base class for all payment methods. The `Payment` class will contain common payment logic, such as processing the payment and showing the amount.
 
