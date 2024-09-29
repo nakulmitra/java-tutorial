@@ -48,6 +48,9 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Nested Classes in Java](object-oriented-programming/nestedclasses/NestedClasses.md)
 - [Static Members in Java](object-oriented-programming/static-members/StaticMembers.md)
 
+## Understanding the final Keyword in Java
+* [final Keyword in Java](final/finalKeyword.md)
+
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
 * [Object-Oriented Programming (OOP) in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbF2t_O8w2Kjx0R7qYTA2XB)
