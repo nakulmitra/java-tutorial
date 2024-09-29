@@ -1,6 +1,8 @@
 # Nested Classes in Java
 Nested classes in Java provide a way to logically group classes that are only used in one place, making the code more readable and maintainable. They allow you to structure your code better by keeping classes that logically belong together, closer. Nested classes are declared inside another class and can access the outer class's members, depending on their type.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/yJOWDcYgz0k)](https://youtu.be/yJOWDcYgz0k)
+
 There are four types of nested classes in Java:
 * Static Nested Classes
 * Non-static Inner Classes
@@ -11,6 +13,9 @@ There are four types of nested classes in Java:
 A **static nested class** is a class that is nested within another class and is marked as static. It behaves like a `static` member of the outer class, which means:
 * It does not have access to non-static members of the outer class.
 * It can be instantiated without creating an instance of the outer class.
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/O-m-PLqL2R4)](https://youtu.be/O-m-PLqL2R4)
+
 ### Example
 ```
 class OuterClass {
@@ -34,6 +39,8 @@ In this example, `StaticNestedClass` can be instantiated directly using the oute
 
 ## Non-static Inner Classes
 A **non-static inner class** is an instance-level class that has access to both static and non-static members of the outer class. To create an instance of a non-static inner class, an instance of the outer class must first be created.
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/FykvRN6J9W8)](https://youtu.be/FykvRN6J9W8)
 
 ### Example
 ```
@@ -59,6 +66,8 @@ In this example, `InnerClass` requires an instance of `OuterClass` to be created
 
 ## Local Classes
 A **local class** is a class defined within a method or block of code. It is accessible only within the scope in which it is defined, making it useful for encapsulating logic that should not be accessible outside that block.
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/zbwuO83WA4A)](https://youtu.be/zbwuO83WA4A)
 
 ### Example
 ```
