@@ -5,6 +5,8 @@ Static members in Java refer to the variables, methods, and blocks that belong t
 What Are Static Variables?
 A **static variable** in Java is a class-level variable that is shared across all instances of the class. Unlike instance variables, which are unique to each object, a static variable is common to all objects and belongs to the class itself. It’s initialized once when the class is loaded into memory, and its value is shared and maintained for the lifetime of the class.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/ViYP1E2_cns)](https://youtu.be/ViYP1E2_cns)
+
 ### Syntax
 ```
 class ClassName {
@@ -42,6 +44,8 @@ In this example, the `count` variable is static, which means it's shared across 
 ## Static Methods
 What Are Static Methods?
 A **static method** belongs to the class and not to any particular object of the class. It can be called without creating an instance of the class and can only access static data (static variables) and static methods directly. Static methods are useful for utility functions or operations that don’t depend on instance data.
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/4pAg5EGbL7Y)](https://youtu.be/4pAg5EGbL7Y)
 
 ### Syntax
 ```
@@ -87,6 +91,8 @@ A **static block** is a block of code that is executed when the class is loaded 
 * Static blocks are executed only once when the class is loaded.
 * They are useful for initializing complex static variables or performing setup tasks that need to occur only once during class loading.
 * Multiple static blocks can be declared in a class, and they are executed in the order they appear in the code.
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/D6o3zMs3baA)](https://youtu.be/D6o3zMs3baA)
 
 ### Example
 ```
