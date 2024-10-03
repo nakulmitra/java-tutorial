@@ -9,6 +9,8 @@ In this repository, we’ll cover the three main usages of the `final` keyword:
 ## Final Variables: Defining Constants
 A `final` variable in Java is essentially a constant; its value can be assigned only once, and after that, it cannot be modified. These variables are used to store fixed values that remain unchanged throughout the program's execution, such as mathematical constants (e.g., `PI`), configuration settings, or limits.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/SBMooaxh9oU)](https://youtu.be/SBMooaxh9oU)
+
 ### Example
 ```
 class FinalVariableExample {
@@ -35,6 +37,8 @@ In the example above, `MAX_LIMIT` is declared as `final`, which means it’s a c
 
 ## Final Methods: Preventing Method Overriding
 A `final` method is a method that cannot be overridden by subclasses. This is useful when you want to ensure that certain functionality remains unchanged, even when inherited by other classes. In situations where altering a method’s behavior could break core functionality, marking it as `final` guarantees that the method will behave the same in all instances.
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/r1MjgcMVYGY)](https://youtu.be/r1MjgcMVYGY)
 
 ### Example
 ```
