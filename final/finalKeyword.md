@@ -69,6 +69,8 @@ In this example, the `show()` method in the `Parent` class is marked as `final`,
 ## Final Classes: Preventing Inheritance
 A `final` class is a class that cannot be extended or inherited by any other class. This is particularly useful when you want to prevent modification of the class's behavior via inheritance. For example, many core classes in Java, such as the `String` class, are declared as `final` to prevent altering their behavior or internal implementation.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/e1BOyEWA5MA)](https://youtu.be/e1BOyEWA5MA)
+
 ### Example
 ```
 final class Parent {
