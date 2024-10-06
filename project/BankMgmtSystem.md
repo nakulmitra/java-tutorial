@@ -3,6 +3,8 @@
 ## Introduction
 In this project, we are building a **Bank Management System using key Object-Oriented Programming (OOP)** concepts in Java. This system simulates real-world banking features such as account creation, deposit, withdrawal, balance inquiry, and fund transfer. It is a simple yet powerful example to showcase how OOP principles can be applied to solve real-world problems.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/wY0fUVH-8TE)](https://youtu.be/wY0fUVH-8TE)
+
 We will cover the following OOP concepts:
 * `Encapsulation:` Protecting the data of accounts by limiting direct access through public methods.
 * `Inheritance:` Using a base class to define shared properties and methods, with specialized subclasses for different types of accounts.
