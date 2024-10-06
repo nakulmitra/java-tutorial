@@ -49,6 +49,9 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Static Members in Java](object-oriented-programming/static-members/StaticMembers.md)
 - [final Keyword in Java](final/finalKeyword.md)
 
+## Access Modifiers
+- [Access Modifiers in Java](access-modifiers/AccessModifiers.md)
+
 ## Project
 - [Bank Management System Project in Java (Using OOP Concepts)](project/BankMgmtSystem.md)
 
