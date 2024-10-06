@@ -141,6 +141,13 @@ public class Main {
 Both the `model` variable and `displayModel()` method are public and can be accessed from any class, including external ones.
 
 ## Summary of Access Modifiers in Java
+| Access Modifier | Class | Package | Subclass | Global |
+| ----------------|-------|---------|----------|--------|
+|     private     |  Yes  |   No    |    No    |   No   |
+|     default     |  Yes  |   Yes   |    No    |   No   |
+|    protected    |  Yes  |   Yes   |    Yes   |   No   |
+|     public      |  Yes  |   Yes   |    Yes   |   Yes  |
+
 
 ## Key Takeaways
 * `Private:` Restricts access to within the same class. Typically used for securing sensitive data or implementation details.
