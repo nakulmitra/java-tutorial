@@ -54,6 +54,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 
 ## Project
 - [Bank Management System Project in Java (Using OOP Concepts)](project/BankMgmtSystem.md)
+- [Online Shopping Cart System using OOP Concepts in Java](project/OnlineShoppingCartSystem.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
