@@ -1,4 +1,4 @@
-# ntroduction
+# Introduction
 This **Online Shopping Cart System** is a mini-project built using **Object-Oriented Programming (OOP)** concepts in Java. It demonstrates how core OOP principles like **encapsulation**, **inheritance**, and **polymorphism** can be applied to structure a simple shopping cart system. The project is designed to simulate an e-commerce experience where users can browse products, add items to their cart, remove items, view their cart, and proceed to checkout.
 
 This system serves as a **dummy project** to demonstrate the fundamental OOP concepts in action and can be extended into a more robust and reliable shopping system with additional functionalities.
