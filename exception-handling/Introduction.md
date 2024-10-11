@@ -65,11 +65,11 @@ In Java, all exceptions are part of the Throwable class hierarchy. The two main 
 
 Here’s a simplified version of the Exception Hierarchy:
 * Throwable
-1. Exception
+### Exception
 * Checked Exceptions (e.g., IOException, SQLException)
 * Unchecked Exceptions (e.g., ArithmeticException, NullPointerException)
 
-2. Error
+### Error
 * Errors that typically signal serious issues with the Java Virtual Machine (JVM) (e.g., OutOfMemoryError, StackOverflowError).
 
 ## Best Practices for Exception Handling
