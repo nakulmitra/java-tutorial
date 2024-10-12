@@ -1,6 +1,8 @@
 # Access Modifiers in Java: Detailed Explanation
 In Java, **access modifiers** control the visibility and accessibility of classes, methods, variables, and constructors. These modifiers are essential for implementing **encapsulation** — one of the fundamental principles of Object-Oriented Programming (OOP). Using access modifiers correctly allows you to secure your code by restricting access to critical parts of your program while exposing only the necessary parts.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/XaihsgrG1pM)](https://youtu.be/XaihsgrG1pM)
+
 Java provides four main access modifiers:
 * Private
 * Default (Package-Private)

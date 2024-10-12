@@ -3,6 +3,8 @@ This **Online Shopping Cart System** is a mini-project built using **Object-Orie
 
 This system serves as a **dummy project** to demonstrate the fundamental OOP concepts in action and can be extended into a more robust and reliable shopping system with additional functionalities.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/N5LATaPbo5U)](https://youtu.be/N5LATaPbo5U)
+
 ## Key Components
 ### Product Class
 * Represents an item in the shop with attributes like `id`, `name`, `price`, and `quantity`.
