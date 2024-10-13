@@ -1,6 +1,8 @@
 # Exception Handling in Java – Detailed Theory
 Exception handling is a crucial concept in Java, ensuring that programs run smoothly even when unexpected events occur during execution. In this document, we’ll explore the fundamentals of exceptions in Java, the types of exceptions, and the hierarchy that governs how exceptions are structured. This will provide a clear understanding of how exceptions work and how to effectively handle them using Java's exception-handling mechanisms.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/iOauUL8MdI8)](https://youtu.be/iOauUL8MdI8)
+
 ## What is an Exception?
 An exception is an event that disrupts the normal flow of a program. It occurs during the execution of a program when an unexpected situation or error is encountered, such as dividing by zero or attempting to access an invalid file. Java uses an object-oriented approach to handle such events by representing exceptions as objects.
 
