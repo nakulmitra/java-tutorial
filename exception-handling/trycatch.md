@@ -83,6 +83,11 @@ public class Main {
 * `Network/Database Operations:` Deal with connection failures or timeouts smoothly.
 
 ## Comparison: Try-Catch vs. Try-With-Resources
+| Feature | Try-Catch Block | Try-With-Resources Block | 
+| ----------------|---------|----------|
+|     Resource Management     |  Manual closure using finally block  |   Automatically closes resources    |
+|     Usage     |  Used for handling exceptions  |   Used for managing and closing resources efficiently   |
+|    Java Version    |  Available in all versions  |   Available in Java 7 and above   |
 
 ## Conclusion
 In this tutorial, we covered:
