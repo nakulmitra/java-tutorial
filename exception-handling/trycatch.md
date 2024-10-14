@@ -3,6 +3,8 @@ In this guide, we will explore two essential aspects of Java exception handling:
 * `Try-Catch Blocks:` To handle errors gracefully and prevent program crashes.
 * `Try-With-Resources:` A feature introduced in Java 7 that ensures automatic closure of resources.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/Jo0rGXu6tcU)](https://youtu.be/Jo0rGXu6tcU)
+
 This detailed documentation covers the concepts, code examples, and best practices that can be helpful for our projects.
 
 ## What is a Try-Catch Block?
