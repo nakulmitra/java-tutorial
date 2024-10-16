@@ -59,6 +59,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 ## Exception Handling 
 - [Introduction to Exception Handling in Java](exception-handling/Introduction.md)
 - [Try-Catch Block and Try-With-Resources](exception-handling/trycatch.md)
+- [Finally Block in Java](exception-handling/finallyBlock.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
