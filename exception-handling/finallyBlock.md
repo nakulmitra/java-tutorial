@@ -105,7 +105,12 @@ While try-with-resources is preferred for managing resources, the `finally` bloc
 * `Debugging and Logging:` Printing logs before a program exits.
 
 ## Key Differences Between Finally Block and Try-With-Resources
-
+| Aspect | Finally Block | Try-With-Resources | 
+| ----------------|---------|----------|
+|     Usage     |  Requires manual closing of resources  |   Automatically closes resources    |
+|     Introduced     |  Available since the beginning of Java  |   Introduced in Java 7   |
+|    Code Readability    |  Can make code lengthy  |   Cleaner and shorter code   |
+|    Best Use Case  | Non-closable resources, custom cleanup | Files, database connections, streams |
 
 ## Summary
 To wrap up, the `finally` block ensures that critical cleanup code always runs, regardless of whether an exception is thrown. It is an essential part of exception handling in Java.
