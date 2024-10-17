@@ -1,6 +1,8 @@
 # Detailed Theory on Finally Block in Java
 This repository contains a detailed explanation of the `finally` **block** in Java, including code examples and best practices. The `finally` block plays a key role in **exception handling** by ensuring that **cleanup operations** are always executed, regardless of whether an exception occurs. This documentation covers everything you need to know about using finally blocks and modern alternatives like **try-with-resources**.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/Y2_bFUK_sxw)](https://youtu.be/Y2_bFUK_sxw)
+
 ## What is the Finally Block in Java?
 The `finally` block is a crucial component of **Java's exception handling mechanism**. It is used to execute **code after the try-catch blocks**, regardless of whether an exception occurred.
 * `Purpose:` Perform cleanup operations, such as **closing files**, **releasing memory**, or **disconnecting from a database**.
