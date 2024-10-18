@@ -98,3 +98,5 @@ In this tutorial, we covered:
 * **Try-with-resources** to manage resources efficiently and prevent memory leaks.
 
 By using **try-catch blocks** appropriately, we can ensure our programs handle unexpected errors smoothly, enhancing user experience. With **try-with-resources**, we can write cleaner code and ensure resources are always closed properly.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/Introduction.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/finallyBlock.md)

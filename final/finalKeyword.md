@@ -106,4 +106,4 @@ The `final` keyword in Java provides a useful way to impose restrictions on vari
 
 This repository contains examples and code snippets demonstrating the use of the `final` keyword in various scenarios. Feel free to explore the code and experiment with the examples to deepen your understanding of how `final` works in Java.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/static-members/StaticMembers.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/object-oriented-programming/static-members/StaticMembers.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/Introduction.md)
