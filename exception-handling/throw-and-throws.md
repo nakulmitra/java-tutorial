@@ -93,6 +93,12 @@ This example shows how `throws` shifts responsibility for handling exceptions to
 * `Thread Operations:` Declaring `InterruptedException` for methods dealing with concurrency.
 
 ## Difference Between throw and throws
+| throw | throws |
+| ----------------|---------|
+|  Used within the method to raise an exception |  Declares exceptions a method might throw  |
+|  Follows by creating a new exception object using new |  Appears in the method signature  |
+|  Example: throw new IOException("Error"); |  Example: public void method() throws IOException  |
+|  Used to manually signal exceptions  | Delegates responsibility for exception handling to the calling method |
 
 ## Using throw and throws Together
 ```
