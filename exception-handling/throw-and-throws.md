@@ -147,3 +147,5 @@ public class Main {
 * `throws` is used to **declare exceptions** that a method might throw.
 
 Both keywords work together to give developers **more control over exception handling** and ensure **clean code with well-defined error handling mechanisms**.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/throw-and-throws.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/custome-exception.md)
