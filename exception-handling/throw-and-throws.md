@@ -148,4 +148,4 @@ public class Main {
 
 Both keywords work together to give developers **more control over exception handling** and ensure **clean code with well-defined error handling mechanisms**.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/throw-and-throws.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/custome-exception.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/trycatch.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/custome-exception.md)
