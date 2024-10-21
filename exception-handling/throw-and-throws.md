@@ -3,6 +3,8 @@ In Java, the `throw` and `throws` keywords play an essential role in exception h
 
 This document will give a comprehensive overview of both keywords, how to use them effectively, and their real-world use cases, with complete code examples.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/2e2HgCt1Xag)](https://youtu.be/2e2HgCt1Xag)
+
 ## What is the throw Keyword?
 The `throw` keyword is used to explicitly throw an exception from a method or block of code. This keyword allows you to raise exceptions based on specific conditions, giving developers control over the flow of their application.
 
