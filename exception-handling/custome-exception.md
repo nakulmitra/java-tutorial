@@ -3,6 +3,8 @@ In Java, exceptions are a way to handle unexpected events or errors that disrupt
 
 This guide explains how to create and use custom exceptions to handle application-specific scenarios efficiently.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/qHlqTuH262o)](https://youtu.be/qHlqTuH262o)
+
 ## Why Create Custom Exceptions?
 Built-in exceptions are general-purpose and may not be suitable for specific business logic. Custom exceptions allow:
 * `Domain-specific clarity:` Help describe what exactly went wrong.
