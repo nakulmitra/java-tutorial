@@ -63,6 +63,9 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [throw and throws Keywords in Java](exception-handling/throw-and-throws.md)
 - [Custom Exceptions in Java](exception-handling/custome-exception.md)
 
+## Java Collections Framework 
+- [Introduction to Java Collections Framework](java-collections-framework/Introduction.md)
+
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
 * [Object-Oriented Programming (OOP) in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbF2t_O8w2Kjx0R7qYTA2XB)
