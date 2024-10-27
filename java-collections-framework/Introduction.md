@@ -115,6 +115,12 @@ public class MapExample {
 ```
 
 ## Detailed Comparison of Collection Types
+| Feature | List | Set | Map |
+| ----------------|-------|---------|----------|
+|     Ordering     |  Ordered  |   Unordered*    |    Key-value pairs    |
+|     Duplicates     |  Allowed  |   Not Allowed   |    Keys unique, values can duplicate    |
+|    Implementations    |  ArrayList, LinkedList  |   HashSet, TreeSet   |    HashMap, TreeMap   |
+|     Accessing      |  Index-based  |   No index   |    Key-based   |
 
 **Note:** LinkedHashSet maintains insertion order, while TreeSet maintains natural order.
 
