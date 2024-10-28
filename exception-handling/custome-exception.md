@@ -138,4 +138,4 @@ In this tutorial, we learned:
 
 Custom exceptions help make your code **more maintainable**, **readable**, and **easier to debug**. They give you **control over error handling** in ways that built-in exceptions may not provide.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/throw-and-throws.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/throw-and-throws.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/Introduction.md)
