@@ -1,6 +1,8 @@
 # Java Collections Framework
 The Java Collections Framework is a powerful architecture that provides reusable, efficient data structures to manage and organize groups of objects in Java. It includes a set of interfaces and classes that handle the creation, manipulation, and storage of data structures such as lists, sets, maps, and queues. By using collections, Java developers can manage large datasets efficiently without needing to manually implement sorting, searching, or manipulation logic.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dwsy74Dvs4c)](https://youtu.be/dwsy74Dvs4c)
+
 ## Why Use Collections Over Arrays?
 While arrays are foundational data structures in Java, they have certain limitations that collections address effectively:
 * `Fixed Size:` Arrays are fixed in size, meaning once created, they cannot grow or shrink.
