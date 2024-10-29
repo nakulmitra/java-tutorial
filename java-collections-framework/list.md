@@ -24,6 +24,14 @@ An `ArrayList` is a resizable array implementation of the `List` interface. It i
 * `Slower insertion/removal from the middle:` Shifting elements to make space incurs an overhead.
 
 #### Commonly Used Methods in ArrayList
+| Method | Description |
+| ----------------|-------|
+|     add(element)     |  Adds the element at the end of the list.  |
+|     add(index, element)     |  Adds the element at the specified index.  |
+|    get(index)    |  Returns the element at the specified index.  |
+|     remove(index)      |  Removes the element at the given index.  |
+|     set(index, element)     |  Updates the element at the specified index.  |
+|     size()     |  Returns the size (number of elements) of the list.  |
 
 #### Example
 ```
@@ -76,6 +84,15 @@ public class ArrayListDemo {
 * `Slower random access:` Accessing an element by index requires traversal.
 
 #### Commonly Used Methods in LinkedList
+| Method | Description |
+| ----------------|-------|
+|     add(element)     |  Adds the element at the end of the list.  |
+|     addFirst(element)     |  Adds the element at the beginning.  |
+|    addLast(element)    |  Adds the element at the end.  |
+|     removeFirst()      |  Removes the first element.  |
+|     removeLast()     |  Removes the last element.  |
+|     getFirst()     |  Returns the first element in the list.  |
+|     getLast()     |  Returns the last element in the list.  |
 
 #### Example
 ```
