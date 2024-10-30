@@ -131,6 +131,12 @@ public class LinkedListDemo {
 * `Insertion/Removal in the middle:` O(n) (since traversal is required).
 
 ## ArrayList vs. LinkedList: When to Use Which?
+| Criteria | ArrayList |  LinkedList  |
+| ----------------|-------|-----------|
+|    Access by Index     |  Fast (O(1))  |  Slow (O(n))  |
+|    Insertion at End     |  Fast (O(1))  |  Fast (O(1))  |
+|    Insertion at Middle    |  Slow (O(n))  |  Slow (O(n))  |
+|    Memory Overhead      |  Lower  |  Higher  |
 
 ## Choosing Between ArrayList and LinkedList
 ###  Use ArrayList when
