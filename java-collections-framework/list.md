@@ -1,6 +1,8 @@
 # Java List Interface
 The `List` interface in Java is part of the Java Collections Framework, a powerful library designed to help developers store, manage, and manipulate groups of objects efficiently. Unlike arrays, which are static and limited in functionality, `List` implementations are dynamic, resizable, and provide additional methods to enhance data management and manipulation.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/E9XEMlYlhmc)](https://youtu.be/E9XEMlYlhmc)
+
 ## Key Characteristics of Lists
 * `Ordered Collection:` Lists maintain the insertion order of elements.
 * `Allows Duplicates:` Lists can contain duplicate elements.
