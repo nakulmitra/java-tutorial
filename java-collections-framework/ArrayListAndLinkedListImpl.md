@@ -132,3 +132,4 @@ public class LinkedListDemo {
 ## Conclusion
 Both `ArrayList` and `LinkedList` are powerful data structures in Java’s `Collections` Framework, each with its strengths and trade-offs. `ArrayList` provides fast access by index, making it ideal for read-heavy applications, while `LinkedList` excels in insertions and deletions due to its linked nature. The choice between these two often comes down to specific application requirements — considering factors like access speed, memory usage, and the frequency of insertions and deletions.
 
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/list.md)

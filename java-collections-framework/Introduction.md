@@ -134,4 +134,4 @@ public class MapExample {
 ## Conclusion
 The Java Collections Framework provides robust tools for efficient data management in Java. Lists, Sets, and Maps cover most data organization needs, and their different implementations provide flexibility to optimize performance based on specific use cases.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/custome-exception.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/exception-handling/custome-exception.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/list.md)

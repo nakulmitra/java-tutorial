@@ -151,3 +151,5 @@ public class LinkedListDemo {
 The `List` interface in Java is a versatile and powerful way to manage ordered collections of elements. **ArrayList** is optimized for **fast access** and is preferred when the order of elements is more critical than insertion/deletion efficiency. **LinkedList**, with its flexible node-based structure, is ideal for **frequent insertions and deletions**.
 
 By understanding the differences between **ArrayList** and **LinkedList** and knowing their internal workings, you can make more informed choices to improve the performance and reliability of your Java applications.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/Introduction.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/ArrayListAndLinkedListImpl.md)
