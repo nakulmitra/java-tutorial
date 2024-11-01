@@ -66,6 +66,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 ## Java Collections Framework 
 - [Introduction to Java Collections Framework](java-collections-framework/Introduction.md)
 - [Java List Interface](java-collections-framework/list.md)
+- [Internal Implementation of ArrayList and LinkedList in Java](java-collections-framework/ArrayListAndLinkedListImpl.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
