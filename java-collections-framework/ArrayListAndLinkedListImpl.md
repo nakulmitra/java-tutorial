@@ -1,6 +1,8 @@
 # ArrayList and LinkedList in Java - Internal Implementation, Differences, and Use Cases
 In Java, `ArrayList` and `LinkedList` are two commonly used implementations of the `List` interface in the Java Collections Framework. Both provide dynamic data structures, but they differ significantly in how they store elements, manage memory, and perform various operations. Understanding these differences is crucial for choosing the right data structure in Java applications.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/fexSEe6qshQ)](https://youtu.be/fexSEe6qshQ)
+
 ## What is an ArrayList?
 ### Overview
 `ArrayList` is a resizable array implementation in Java, stored in contiguous memory locations. Unlike regular arrays, `ArrayList` can dynamically grow or shrink as elements are added or removed.
@@ -102,9 +104,9 @@ public class LinkedListDemo {
 ```
 
 ### Time Complexity Analysis
-`Access (get):` O(n) - Requires traversal from the head or tail.
-`Insertion/Deletion at Head or Tail:` O(1) - No shifting or resizing needed.
-`Insertion/Deletion in Middle:` O(n) - Traversal is required to reach the target position.
+* `Access (get):` O(n) - Requires traversal from the head or tail.
+* `Insertion/Deletion at Head or Tail:` O(1) - No shifting or resizing needed.
+* `Insertion/Deletion in Middle:` O(n) - Traversal is required to reach the target position.
 
 ### When to Use LinkedList
 * When frequent insertions or deletions are required, especially at the beginning or end.
