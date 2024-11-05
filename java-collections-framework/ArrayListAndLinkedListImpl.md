@@ -138,4 +138,4 @@ Both `ArrayList` and `LinkedList` are powerful data structures in Java’s `Coll
 For more in-depth information, refer to:
 * [Java Collections Framework Documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/list.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/list.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/sets.md)
