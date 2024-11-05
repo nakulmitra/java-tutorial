@@ -1,6 +1,8 @@
 # Java Set Interface: HashSet, LinkedHashSet, and TreeSet
 The Set interface in Java is part of the Java Collections Framework and is used to store unique elements. The main implementations of the Set interface are **HashSet**, **LinkedHashSet**, and **TreeSet**. Each implementation has unique features that make them suitable for different use cases. This guide provides a deep dive into these Set types, including their characteristics, use cases, and code examples.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/RSN-kkjmBvc)](https://youtu.be/RSN-kkjmBvc)
+
 ## What is a Set?
 In Java, a Set is a collection that:
 * Does not allow duplicate elements
