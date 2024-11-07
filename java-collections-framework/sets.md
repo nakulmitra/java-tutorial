@@ -146,4 +146,4 @@ System.out.println("Difference: " + set1);  // Output: [1, 2]
 ## Conclusion
 By understanding how each Set type works and where to apply them, we’ll be able to write more efficient, organized, and maintainable Java code. This knowledge will also help us in scenarios where maintaining unique elements and performing mathematical operations are critical, such as data processing, sorting, and managing collections of unique records.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/ArrayListAndLinkedListImpl.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/ArrayListAndLinkedListImpl.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/maps.md)
