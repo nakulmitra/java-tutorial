@@ -1,6 +1,8 @@
 # Introduction to Maps in Java
 A **Map** in Java is a part of the Java Collections Framework and is designed to store data in **key-value pairs**. This data structure is extremely useful when you need a mapping between a unique key and a value, such as usernames and passwords, or employee IDs and names. Unlike other collections (e.g., List, Set), a Map does not allow duplicate keys but allows duplicate values.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/3ZhbqpkFjJo)](https://youtu.be/3ZhbqpkFjJo)
+
 ## Key Characteristics of Maps
 * `Key-Value Pair Storage:` Each entry in a Map is a pair consisting of a unique key and a value associated with that key.
 * `No Duplicate Keys:` Each key must be unique; attempting to insert a duplicate key will overwrite the existing value.
