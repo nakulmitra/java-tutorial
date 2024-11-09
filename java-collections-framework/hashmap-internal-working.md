@@ -9,7 +9,7 @@ In Java, a `HashMap` stores data in key-value pairs. Each key is unique, and it 
 * `Resizing:` As entries are added, the HashMap may resize itself to maintain performance.
 
 ## Internal Structure of HashMap
-1. Hashing and Bucket Index Calculation
+## Hashing and Bucket Index Calculation
 When a key-value pair is added to a `HashMap`, the following steps occur:
 * The key’s `hashCode()` method generates an integer value called a **hash code**.
 * This hash code is used to determine the bucket index where the key-value pair will be stored within the internal array of the `HashMap`.
@@ -38,7 +38,7 @@ System.out.println("Bucket index for key 'apple': " + index);
 
 This will generate an index value within the range `[0, 15]`, directing the entry to its appropriate bucket.
 
-2. Structure of Buckets and Storage of Entries
+## Structure of Buckets and Storage of Entries
 Each bucket in `HashMap` holds multiple entries (key-value pairs) using a **linked list** or a **balanced tree** structure.
 ### Example: Adding Entries to a HashMap
 ```
@@ -56,7 +56,7 @@ The resulting structure:
 * Bucket[2] -> `("grape", 300)`
 * Bucket[6] -> `("apple", 100)` -> `("banana", 200)` (stored in a linked list or tree if needed)
 
-3. Collision Handling
+## Collision Handling
 Collisions occur when multiple keys hash to the same bucket. `HashMap` uses **Separate Chaining** to handle these collisions.
 
 ### Separate Chaining Mechanism
@@ -64,7 +64,7 @@ Collisions occur when multiple keys hash to the same bucket. `HashMap` uses **Se
 * `Java 8 and Later:` Java optimizes performance by converting the linked list to a **balanced tree** (Red-Black Tree) if a bucket has more than 8 entries.
 The tree structure reduces the time complexity of searching within a bucket from **O(n)** to **O(log n)**.
 
-4. Retrieving Values from HashMap
+## Retrieving Values from HashMap
 The retrieval process is as follows:
 * The key’s `hashCode()` is calculated.
 * The hash code undergoes the same bitwise operation to find the bucket index.
@@ -77,7 +77,7 @@ map.put("apple", 100);
 int value = map.get("apple"); // Returns 100
 ```
 
-5. HashMap Resizing and Rehashing
+## HashMap Resizing and Rehashing
 The `HashMap` dynamically resizes itself when it reaches a certain threshold. The load factor (default 0.75) determines when resizing occurs. For instance, with an initial capacity of 16, resizing will occur after 12 entries.
 
 ### Resizing Process
@@ -102,3 +102,5 @@ This process ensures performance remains optimal as the number of entries grows.
 
 ## Conclusion
 Java’s `HashMap` is optimized for efficient data retrieval, and its internal structure supports fast access, collision handling, and resizing. Understanding these mechanisms equips you to use `HashMap` effectively and avoid performance pitfalls in large applications.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/maps.md)
