@@ -69,6 +69,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Internal Implementation of ArrayList and LinkedList in Java](java-collections-framework/ArrayListAndLinkedListImpl.md)
 - [Java Set Interface](java-collections-framework/sets.md)
 - [Maps in Java (HashMap, LinkedHashMap, TreeMap)](java-collections-framework/maps.md)
+- [Internal Working of HashMap in Java](java-collections-framework/hashmap-internal-working.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
