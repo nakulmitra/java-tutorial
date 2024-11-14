@@ -72,7 +72,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Internal Working of HashMap in Java](java-collections-framework/hashmap-internal-working.md)
 
 ## Exploring Java 8 Enhancements
-- [Lambda Expressions in Java](java-collections-framework/lambda-expressions.md)
+- [Lambda Expressions in Java](java-8-enhancements/lambda-expressions.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
