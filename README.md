@@ -71,6 +71,9 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Maps in Java (HashMap, LinkedHashMap, TreeMap)](java-collections-framework/maps.md)
 - [Internal Working of HashMap in Java](java-collections-framework/hashmap-internal-working.md)
 
+## Exploring Java 8 Enhancements
+- [Lambda Expressions in Java](java-collections-framework/lambda-expressions.md)
+
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
 * [Object-Oriented Programming (OOP) in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbF2t_O8w2Kjx0R7qYTA2XB)
