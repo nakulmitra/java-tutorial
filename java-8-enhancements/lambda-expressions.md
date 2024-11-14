@@ -141,3 +141,5 @@ Lambda Expressions are a fundamental addition to Java 8, enabling a functional a
 * Lambda expressions allow us to pass behavior as data.
 * They simplify the use of Java’s functional interfaces.
 * They are especially useful when combined with the Stream API for data processing.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/hashmap-internal-working.md)

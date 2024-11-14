@@ -1,6 +1,8 @@
 # Understanding the Internal Working of HashMap in Java
 Java’s `HashMap` is a highly efficient data structure used for storing key-value pairs. It is part of Java’s `java.util` package and is widely used in scenarios requiring fast data access. This document will walk through `HashMap`'s internal architecture, hashing mechanisms, collision handling, resizing, and retrieval process.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/PZcgsPyYAgM)](https://youtu.be/PZcgsPyYAgM)
+
 ## Overview
 In Java, a `HashMap` stores data in key-value pairs. Each key is unique, and it maps to a specific value. Here’s how `HashMap` works at a high level:
 * `Hashing:` Each key has a unique hash code that determines where it should be stored in memory.
@@ -103,4 +105,4 @@ This process ensures performance remains optimal as the number of entries grows.
 ## Conclusion
 Java’s `HashMap` is optimized for efficient data retrieval, and its internal structure supports fast access, collision handling, and resizing. Understanding these mechanisms equips you to use `HashMap` effectively and avoid performance pitfalls in large applications.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/maps.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/maps.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/lambda-expressions.md)
