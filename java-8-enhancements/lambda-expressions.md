@@ -1,6 +1,8 @@
 # Overview
 Lambda Expressions were introduced in **Java 8** to bring **functional programming** capabilities to Java, simplifying code structure, improving readability, and reducing boilerplate code. They enable Java developers to write cleaner and more concise code, particularly when working with collections and streams.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dbAe2IG8_vE)](https://youtu.be/dbAe2IG8_vE)
+
 ## What is Functional Programming?
 Functional programming is a programming paradigm focused on what to do rather than how to do it. It allows treating functions as **first-class citizens**, meaning:
 * Functions can be passed as parameters to other functions.
