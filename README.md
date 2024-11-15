@@ -70,6 +70,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Java Set Interface](java-collections-framework/sets.md)
 - [Maps in Java (HashMap, LinkedHashMap, TreeMap)](java-collections-framework/maps.md)
 - [Internal Working of HashMap in Java](java-collections-framework/hashmap-internal-working.md)
+- [Iterators and foreach Loop in Java](java-collections-framework/iterator-foreach.md)
 
 ## Exploring Java 8 Enhancements
 - [Lambda Expressions in Java](java-8-enhancements/lambda-expressions.md)
