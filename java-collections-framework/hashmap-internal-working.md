@@ -105,4 +105,4 @@ This process ensures performance remains optimal as the number of entries grows.
 ## Conclusion
 Java’s `HashMap` is optimized for efficient data retrieval, and its internal structure supports fast access, collision handling, and resizing. Understanding these mechanisms equips you to use `HashMap` effectively and avoid performance pitfalls in large applications.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/maps.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/lambda-expressions.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/maps.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/iterator-foreach.md)
