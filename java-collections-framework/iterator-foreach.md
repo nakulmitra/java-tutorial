@@ -1,6 +1,8 @@
 # Iterators and foreach Loop in Java
 Iterators and the foreach loop are two fundamental tools in Java for traversing collections. They allow you to efficiently process elements in data structures like `List`, `Set`, and `Map`. This guide covers their concepts, use cases, and implementation details.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/QtubImIKogY)](https://youtu.be/QtubImIKogY)
+
 ## What is an Iterator?
 An **Iterator** is an object in Java that allows sequential traversal of elements in a collection without exposing its underlying implementation. It is part of the **java.util** package and is a key component of the **Iterator Design Pattern**.
 
