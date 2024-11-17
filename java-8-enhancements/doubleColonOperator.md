@@ -21,7 +21,7 @@ names.forEach(System.out::println);
 
 ## Types of Method References
 There are four primary types of method references in Java:
-* **Reference to a Static Method**
+## Reference to a Static Method**
 This is used to refer to static methods of a class.
 ### Syntax
 ```
@@ -49,7 +49,7 @@ public class StaticMethodRefExample {
 * `StaticMethodRefExample::printUpperCase` refers to the static method `printUpperCase`.
 * Each element in the list is passed to this method during iteration.
 
-* **Reference to an Instance Method of a Specific Object**
+## Reference to an Instance Method of a Specific Object**
 This type refers to an instance method of a particular object.
 
 ### Syntax
@@ -79,7 +79,7 @@ public class InstanceMethodRefExample {
 * `example::printName` refers to the `printName` method of the specific object `example`.
 * Each element in the list is passed to the method.
 
-* **Reference to an Instance Method of an Arbitrary Object of a Particular Type**
+## Reference to an Instance Method of an Arbitrary Object of a Particular Type**
 This refers to instance methods, but instead of referring to a specific object, it applies to arbitrary objects of the specified type.
 
 ### Syntax
@@ -106,7 +106,7 @@ public class ArbitraryObjectMethodRefExample {
 * `String::toUpperCase` refers to the `toUpperCase` method of the `String` class.
 * It applies the method to each element in the stream.
 
-* **Reference to a Constructor**
+## Reference to a Constructor**
 This is used to create a new object using its constructor.
 
 ### Syntax
