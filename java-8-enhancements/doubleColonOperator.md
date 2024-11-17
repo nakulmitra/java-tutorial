@@ -1,5 +1,5 @@
 # Method References in Java (Double Colon :: Operator)
-The double colon (::) operator, also known as the method reference operator, is a feature introduced in Java 8. It is a shorthand syntax for referring to methods or constructors without explicitly invoking them. Method references are a more concise way to use lambda expressions in functional programming and are especially useful when working with the **Stream API** or other functional interfaces.
+The double colon `(::)` operator, also known as the **method reference operator**, is a feature introduced in **Java 8**. It is a shorthand syntax for referring to methods or constructors without explicitly invoking them. Method references are a more concise way to use lambda expressions in functional programming and are especially useful when working with the **Stream API** or other functional interfaces.
 
 ## What Is the Double Colon (::) Operator?
 The double colon operator allows us to refer to:
@@ -39,14 +39,14 @@ public class StaticMethodRefExample {
     }
 
     public static void main(String[] args) {
-        List<String> names = Arrays.asList("Alice", "Bob", "Charlie");
+        List<String> names = Arrays.asList("Janet", "Aman", "Shreya");
         names.forEach(StaticMethodRefExample::printUpperCase);
     }
 }
 ```
 
 ### Explanation
-* StaticMethodRefExample::printUpperCase refers to the static method printUpperCase.
+* `StaticMethodRefExample::printUpperCase` refers to the static method `printUpperCase`.
 * Each element in the list is passed to this method during iteration.
 
 * **Reference to an Instance Method of a Specific Object**
@@ -69,14 +69,14 @@ public class InstanceMethodRefExample {
 
     public static void main(String[] args) {
         InstanceMethodRefExample example = new InstanceMethodRefExample();
-        List<String> names = Arrays.asList("Alice", "Bob", "Charlie");
+        List<String> names = Arrays.asList("Janet", "Aman", "Shreya");
         names.forEach(example::printName);
     }
 }
 ```
 
 ### Explanation
-* example::printName refers to the printName method of the specific object example.
+* `example::printName` refers to the `printName` method of the specific object `example`.
 * Each element in the list is passed to the method.
 
 * **Reference to an Instance Method of an Arbitrary Object of a Particular Type**
@@ -94,7 +94,7 @@ import java.util.List;
 
 public class ArbitraryObjectMethodRefExample {
     public static void main(String[] args) {
-        List<String> names = Arrays.asList("Alice", "Bob", "Charlie");
+        List<String> names = Arrays.asList("Janet", "Aman", "Shreya");
         names.stream()
              .map(String::toUpperCase)
              .forEach(System.out::println);
@@ -103,7 +103,7 @@ public class ArbitraryObjectMethodRefExample {
 ```
 
 ### Explanation
-* String::toUpperCase refers to the toUpperCase method of the String class.
+* `String::toUpperCase` refers to the `toUpperCase` method of the `String` class.
 * It applies the method to each element in the stream.
 
 * **Reference to a Constructor**
@@ -135,7 +135,7 @@ class Person {
 
 public class ConstructorRefExample {
     public static void main(String[] args) {
-        List<String> names = Arrays.asList("Alice", "Bob", "Charlie");
+        List<String> names = Arrays.asList("Janet", "Aman", "Shreya");
         List<Person> people = names.stream()
                                    .map(Person::new)
                                    .collect(Collectors.toList());
@@ -146,7 +146,7 @@ public class ConstructorRefExample {
 ```
 
 ### Explanation
-* Person::new refers to the constructor of the Person class.
+* `Person::new` refers to the constructor of the `Person` class.
 * Each name in the list is passed to the constructor to create a new Person object.
 
 ## When to Use Method References vs. Lambda Expressions
@@ -164,7 +164,7 @@ import java.util.List;
 
 public class StreamMethodReferenceExample {
     public static void main(String[] args) {
-        List<String> names = Arrays.asList("Alice", "bob", "Charlie");
+        List<String> names = Arrays.asList("Janet", "Aman", "Shreya");
 
         names.stream()
              .map(String::toUpperCase)          // Convert each name to uppercase
