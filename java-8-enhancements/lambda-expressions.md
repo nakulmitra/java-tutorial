@@ -144,4 +144,4 @@ Lambda Expressions are a fundamental addition to Java 8, enabling a functional a
 * They simplify the use of Java’s functional interfaces.
 * They are especially useful when combined with the Stream API for data processing.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/iterator-foreach.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-collections-framework/iterator-foreach.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/doubleColonOperator.md)

@@ -74,6 +74,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 
 ## Exploring Java 8 Enhancements
 - [Lambda Expressions in Java](java-8-enhancements/lambda-expressions.md)
+- [Double Colon (::) Operator in Java](java-8-enhancements/doubleColonOperator.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
