@@ -1,6 +1,8 @@
 # Method References in Java (Double Colon :: Operator)
 The double colon `(::)` operator, also known as the **method reference operator**, is a feature introduced in **Java 8**. It is a shorthand syntax for referring to methods or constructors without explicitly invoking them. Method references are a more concise way to use lambda expressions in functional programming and are especially useful when working with the **Stream API** or other functional interfaces.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/2Pc6cJSeaeI)](https://youtu.be/2Pc6cJSeaeI)
+
 ## What Is the Double Colon (::) Operator?
 The double colon operator allows us to refer to:
 * Static methods
