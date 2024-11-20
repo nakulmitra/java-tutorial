@@ -11,6 +11,12 @@ Key Characteristics of the Stream API:
 * `Immutable Data Processing:` Streams do not modify the original data source but work on a copy, ensuring thread safety.
 
 ## Differences Between Traditional Loops and Streams
+| Aspect | Traditional Loops | Stream API |
+| ----------------|-------|-------|
+|    Programming Style     |  Imperative  |  Declarative  |
+|    Focus     |  On "how" to achieve the result  |  On "what" the result should be  |
+|    Code Verbosity    |  High due to manual iteration  |  Low, concise with predefined methods  |
+|    Parallel Processing      |  Requires explicit multithreading code  |  Built-in parallelism support  |
 
 ## Example Comparison 
 ### Traditional Loop
