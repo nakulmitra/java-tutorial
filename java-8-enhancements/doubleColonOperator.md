@@ -199,4 +199,4 @@ public class StreamMethodReferenceExample {
 ## Conclusion
 By understanding and using the double colon (::) operator effectively, we can write more concise and maintainable Java code. Mastering this feature is essential for anyone diving into functional programming in Java.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/lambda-expressions.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/lambda-expressions.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/introduction-to-streamAPI.md)
