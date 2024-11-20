@@ -83,6 +83,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 * [Exception Handling in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgYT9Eq36sZshd-GurkK2g1d)
 * [Real-World Projects with OOP Concepts](https://www.youtube.com/playlist?list=PLKrxcqbQdCgaAtUObt11xA63eO7kx4Epj)
 * [Java Collections Framework](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbW61Q0L9gIPE-DdnklEBxy)
+* [Java 8 Enhancements](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbYmzd0OuxRVm5FZes2XySj)
 
 ## Stay Connected
 * [Dev Portal](https://www.youtube.com/@DevPortal2114)
