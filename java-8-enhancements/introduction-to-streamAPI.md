@@ -1,6 +1,8 @@
 # Stream API in Java
 The Stream API, introduced in Java 8, is one of the most transformative additions to the language, enabling developers to process collections in a declarative, functional style. This guide explores the fundamentals, advantages, and practical usage of the Stream API, offering detailed insights and code examples.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/ww78lwi_b94)](https://youtu.be/ww78lwi_b94)
+
 ## What Is the Stream API?
 The Stream API is a powerful abstraction for processing data. It enables operations such as filtering, mapping, and reducing collections in a functional programming style.
 
