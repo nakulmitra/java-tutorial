@@ -11,7 +11,7 @@ Non-Destructive: They do not modify the original data structure but work on the 
 
 ## Common Intermediate Operations
 Here’s a detailed look at some of the most commonly used intermediate operations:
-### filter(Predicate)
+* **filter(Predicate)**
 Filters elements based on a condition. Retains elements that match the condition and discards the rest.
 #### Example:
 ```
@@ -29,7 +29,7 @@ public class FilterExample {
 }
 ```
 
-### map(Function)
+* **map(Function)**
 Applies a transformation function to each element in the stream.
 #### Example:
 ```
@@ -47,7 +47,7 @@ public class MapExample {
 }
 ```
 
-### flatMap(Function)
+* **flatMap(Function)**
 Converts a stream of collections into a single stream of elements, effectively flattening the nested structure.
 #### Example: 
 ```
@@ -68,7 +68,7 @@ public class FlatMapExample {
 }
 ```
 
-### distinct()
+* **distinct()**
 Eliminates duplicate elements from the stream.
 #### Example:
 ```
@@ -86,7 +86,7 @@ public class DistinctExample {
 }
 ```
 
-### sorted()
+* **sorted()**
 Sorts the elements in the stream. By default, it uses natural order, but you can also provide a custom comparator.
 #### Natural Order Example:
 ```
@@ -111,7 +111,7 @@ names.stream()
      .forEach(System.out::println); // Output: Shreya, Janet, Aman
 ```
 
-### peek(Consumer)
+* **peek(Consumer)**
 Used to inspect elements as they pass through the pipeline. Commonly used for debugging.
 #### Example:
 ```
@@ -130,7 +130,7 @@ public class PeekExample {
 }
 ```
 
-### limit(long) and skip(long)
+* l**imit(long) and skip(long)**
 * `limit:` Restricts the number of elements processed by the stream.
 * `skip:` Skips a specified number of elements.
 #### Example:
