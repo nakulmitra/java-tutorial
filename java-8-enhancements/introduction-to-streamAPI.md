@@ -163,4 +163,4 @@ int sum = numbers.parallelStream()
 * It supports parallel processing for performance optimization.
 * Streams are immutable, ensuring thread safety in concurrent environments.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/doubleColonOperator.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/doubleColonOperator.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/intermediate-operations.md)
