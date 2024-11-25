@@ -1,6 +1,8 @@
 # Intermediate Operations in Stream API
 The **Stream API** in Java provides a functional approach to processing data. Intermediate operations are a critical part of this functionality, allowing developers to transform, filter, and manipulate data in a concise, readable, and efficient manner. This document explains intermediate operations in detail, complete with examples, use cases, and best practices.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/seLyxqgpYrs)](https://youtu.be/seLyxqgpYrs)
+
 ## What Are Intermediate Operations?
 Intermediate operations in the Stream API are used to process and transform the elements of a stream. They are lazy, meaning they are not executed until a terminal operation (such as forEach, collect, or reduce) is invoked. This laziness allows the Stream API to optimize the execution of pipelines and reduce unnecessary computations.
 
@@ -180,9 +182,9 @@ public class CombinedExample {
 * `Efficiency:` Only the necessary elements are processed, optimizing performance.
 
 ## Best Practices
-Use intermediate operations to build readable and maintainable pipelines.
-Avoid modifying the original data structure during stream processing.
-Use `peek` for debugging but remove it in production code for better performance.
+* Use intermediate operations to build readable and maintainable pipelines.
+* Avoid modifying the original data structure during stream processing.
+* Use `peek` for debugging but remove it in production code for better performance.
 
 ## Conclusion
 Intermediate operations in the Stream API are a cornerstone of Java’s functional programming features. By mastering these operations, you can process data efficiently and write cleaner, more expressive code. This document provided a comprehensive guide to the most commonly used intermediate operations, complete with examples and practical applications.
