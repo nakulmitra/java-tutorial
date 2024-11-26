@@ -189,4 +189,4 @@ public class CombinedExample {
 ## Conclusion
 Intermediate operations in the Stream API are a cornerstone of Java’s functional programming features. By mastering these operations, you can process data efficiently and write cleaner, more expressive code. This document provided a comprehensive guide to the most commonly used intermediate operations, complete with examples and practical applications.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/introduction-to-streamAPI.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/introduction-to-streamAPI.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/terminal-operations.md)
