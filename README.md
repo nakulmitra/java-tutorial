@@ -77,6 +77,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Double Colon (::) Operator in Java](java-8-enhancements/doubleColonOperator.md)
 - [Stream API in Java](java-8-enhancements/introduction-to-streamAPI.md)
 - [Java Stream API: Intermediate Operations](java-8-enhancements/intermediate-operations.md)
+- [Java Stream API: Terminal Operations](java-8-enhancements/terminal-operations.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
