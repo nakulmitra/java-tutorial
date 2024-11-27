@@ -1,10 +1,10 @@
 # Terminal Operations in Java Stream API
-The **Java Stream API**, introduced in Java 8, revolutionized how developers work with collections and data processing pipelines. Terminal operations are a key part of the Stream API, marking the endpoint of a stream pipeline and producing either a single result or a side effect. This guide explores terminal operations in depth, providing examples, use cases, and insights into how to use them effectively.
+The **Java Stream API**, introduced in Java 8, revolutionized how developers work with collections and data processing pipelines. Terminal operations are a key part of the Stream API, marking the endpoint of a stream pipeline and producing either a single result. This guide explores terminal operations in depth, providing examples, use cases, and insights into how to use them effectively.
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/rtwSlmkAWcE)](https://youtu.be/rtwSlmkAWcE)
 
 ## What Are Terminal Operations?
-Terminal operations are actions that process all elements of a stream and produce a result or side effect.
+Terminal operations are actions that process all elements of a stream and produce a result.
 
 ### Key Characteristics:
 * Once a terminal operation is called, the stream pipeline is closed, and further operations on the stream are not allowed.
