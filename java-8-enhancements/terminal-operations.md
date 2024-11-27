@@ -14,8 +14,8 @@ Terminal operations are actions that process all elements of a stream and produc
 ## Types of Terminal Operations
 ### forEach
 The **forEach** method iterates over each element of the stream, applying a specified action.
-`Use Case:` Ideal for printing, logging, or performing actions on each element individually.
-`Example:`
+* `Use Case:` Ideal for printing, logging, or performing actions on each element individually.
+* `Example:`
 ```
 List<String> names = Arrays.asList("Janet", "Aman", "Shreya");
 names.stream()
@@ -28,8 +28,8 @@ names.stream()
 
 ### collect
 The **collect** method gathers elements from the stream into a collection, such as a `List`, `Set`, or `Map`.
-`Use Case:` Creating new collections from stream data or performing advanced grouping and partitioning.
-`Example (Collecting to List):`
+* `Use Case:` Creating new collections from stream data or performing advanced grouping and partitioning.
+* `Example (Collecting to List):`
 ```
 List<String> names = Arrays.asList("Aman", "Janet", "Aman", "Shreya");
 List<String> uniqueNames = names.stream()
@@ -38,7 +38,7 @@ List<String> uniqueNames = names.stream()
 System.out.println(uniqueNames); // Output: [Aman, Janet, Shreya]
 ```
 
-`Advanced Grouping Example:`
+* `Advanced Grouping Example:`
 ```
 List<String> names = Arrays.asList("Aman", "Harshada", "Shreya", "Harika", "Sahil");
 Map<Character, List<String>> groupedByInitial = names.stream()
@@ -49,8 +49,8 @@ System.out.println(groupedByInitial);
 
 ### reduce
 The **reduce** method aggregates elements in the stream into a single result using an accumulator function.
-`Use Case:` Calculating sums, products, or concatenations.
-`Example (Sum of Numbers):`
+* `Use Case:` Calculating sums, products, or concatenations.
+* `Example (Sum of Numbers):`
 ```
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
 int sum = numbers.stream()
@@ -60,8 +60,8 @@ System.out.println("Sum: " + sum); // Output: Sum: 15
 
 ### count
 The **count** method returns the total number of elements in the stream.
-`Use Case:` Summarizing the size of filtered or processed streams.
-`Example:`
+* `Use Case:` Summarizing the size of filtered or processed streams.
+* `Example:`
 ```
 List<String> items = Arrays.asList("Shreya", "Harshada", "Janet");
 long itemCount = items.stream().count();
@@ -70,8 +70,8 @@ System.out.println("Total items: " + itemCount); // Output: Total items: 3
 
 ### toArray
 The **toArray** method converts elements in the stream into an array.
-`Use Case:` When you need an array representation of the stream elements.
-`Example:`
+* `Use Case:` When you need an array representation of the stream elements.
+* `Example:`
 ```
 List<String> names = Arrays.asList("Janet", "Harshada", "Shreya");
 String[] nameArray = names.stream().toArray(String[]::new);
@@ -80,8 +80,8 @@ System.out.println(Arrays.toString(nameArray)); // Output: [Janet, Harshada, Shr
 
 ### min and max
 The **min** and **max** methods find the smallest and largest elements in the stream based on a comparator.
-`Use Case:` Retrieving extremum values from a dataset.
-`Example:`
+* `Use Case:` Retrieving extremum values from a dataset.
+* `Example:`
 ```
 List<Integer> numbers = Arrays.asList(5, 3, 9, 1);
 int minNumber = numbers.stream().min(Integer::compare).orElse(-1);
@@ -95,7 +95,7 @@ These methods check if elements in the stream satisfy a given condition:
 * `anyMatch:` Returns `true` if at least one element matches the condition.
 * `allMatch:` Returns `true` if all elements match the condition.
 * `noneMatch:` Returns `true` if no elements match the condition.
-`Example:`
+* `Example:`
 ```
 List<String> names = Arrays.asList("Aman", "Harshada", "Sahil");
 boolean anyStartsWithA = names.stream().anyMatch(name -> name.startsWith("A"));
@@ -109,7 +109,7 @@ System.out.println("None start with Z: " + noneStartsWithZ); // Output: true
 ### findFirst and findAny
 * `findFirst:` Returns the first element in the stream.
 * `findAny:` Returns any element (useful for parallel streams).
-`Example:`
+* `Example:`
 ```
 List<String> names = Arrays.asList("Aman", "Shreya", "Janet");
 String firstName = names.stream().findFirst().orElse("No name");
