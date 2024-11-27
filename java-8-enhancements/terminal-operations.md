@@ -92,9 +92,9 @@ System.out.println("Min: " + minNumber + ", Max: " + maxNumber);
 
 ### anyMatch, allMatch, noneMatch
 These methods check if elements in the stream satisfy a given condition:
-`anyMatch:` Returns `true` if at least one element matches the condition.
-`allMatch:` Returns `true` if all elements match the condition.
-`noneMatch:` Returns `true` if no elements match the condition.
+* `anyMatch:` Returns `true` if at least one element matches the condition.
+* `allMatch:` Returns `true` if all elements match the condition.
+* `noneMatch:` Returns `true` if no elements match the condition.
 `Example:`
 ```
 List<String> names = Arrays.asList("Aman", "Harshada", "Sahil");
@@ -107,8 +107,8 @@ System.out.println("None start with Z: " + noneStartsWithZ); // Output: true
 ```
 
 ### findFirst and findAny
-`findFirst:` Returns the first element in the stream.
-`findAny:` Returns any element (useful for parallel streams).
+* `findFirst:` Returns the first element in the stream.
+* `findAny:` Returns any element (useful for parallel streams).
 `Example:`
 ```
 List<String> names = Arrays.asList("Aman", "Shreya", "Janet");
