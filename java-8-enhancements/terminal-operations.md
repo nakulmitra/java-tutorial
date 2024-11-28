@@ -139,4 +139,4 @@ System.out.println("Any Name: " + anyName);    // Output: Aman or another name
 ## Conclusion
 The Stream API’s terminal operations provide powerful tools to process data efficiently and elegantly. From aggregating results with `reduce` to collecting data into collections with `collect`, terminal operations complete the functional programming model of streams. By mastering these operations, you can handle complex data transformations and summaries with minimal effort.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/intermediate-operations.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/intermediate-operations.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/optional-class.md)
