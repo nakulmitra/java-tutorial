@@ -78,6 +78,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Stream API in Java](java-8-enhancements/introduction-to-streamAPI.md)
 - [Java Stream API: Intermediate Operations](java-8-enhancements/intermediate-operations.md)
 - [Java Stream API: Terminal Operations](java-8-enhancements/terminal-operations.md)
+- [Java Optional Class](java-8-enhancements/optional-class.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
