@@ -92,7 +92,7 @@ System.out.println(filtered.orElse("No Match")); // Output: "Hello, Java 8!"
 
 ## Real-World Example: Handling Database Results
 The following example demonstrates how Optional can be used to handle null values when retrieving data from a simulated database:
-`Code Example:`
+* `Code Example:`
 ```
 import java.util.Optional;
 
