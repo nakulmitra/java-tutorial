@@ -1,6 +1,8 @@
 # Java Optional Class
 The **Optional** class, introduced in **Java 8**, is a powerful tool designed to handle null values in a cleaner, safer, and more functional way. By eliminating the need for explicit null checks, Optional improves code readability, reduces the risk of **NullPointerException**, and aligns Java with modern functional programming paradigms.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/K-q1G-b4jkc)](https://youtu.be/K-q1G-b4jkc)
+
 ## Why Was the Optional Class Introduced?
 In Java, null values have been a common cause of errors, leading to the infamous **NullPointerException**. Traditionally, developers needed to write verbose code to handle null checks, which could result in cluttered and less readable code.
 The Optional class addresses these issues by providing a container to represent the presence or absence of a value explicitly.
