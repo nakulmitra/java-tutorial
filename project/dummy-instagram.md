@@ -28,7 +28,7 @@ This project serves as a foundation for understanding how to design and implemen
 * Display all users and their respective posts, likes, and comments.
 
 ## Class Design
-### User Class
+### 1. User Class
 The `User` class represents an Instagram user.
 
 **Attributes:**
@@ -41,7 +41,7 @@ The `User` class represents an Instagram user.
 * `getUsername():` Returns the user's username.
 * `getPosts():` Returns the list of the user's posts.
 
-### Post Class
+### 2. Post Class
 The Post class represents a user's post.
 
 **Attributes:**
@@ -57,7 +57,7 @@ The Post class represents a user's post.
 * `getComments():` Returns the list of comments.
 * `toString():` Formats the post details for display.
 
-### Comment Class
+### 3. Comment Class
 The Comment class represents a comment on a post.
 
 **Attributes:**
@@ -67,7 +67,7 @@ The Comment class represents a comment on a post.
 **Methods:**
 * `toString():` Formats the comment for display.
 
-### Custom Exception
+### 4. Custom Exception
 The `InvalidEmailException` class is a custom exception used to validate email addresses.
 
 **Usage:**
@@ -200,6 +200,7 @@ public class InvalidEmailException extends Exception {
 
 5. **Main Program**
 The Main class ties everything together, simulating user interactions.
+
 `Users can:`
 * Choose to act as a specific user.
 * Add posts.
