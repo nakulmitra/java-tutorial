@@ -28,7 +28,7 @@ This project serves as a foundation for understanding how to design and implemen
 * Display all users and their respective posts, likes, and comments.
 
 ## Class Design
-1. User Class
+### User Class
 The `User` class represents an Instagram user.
 
 **Attributes:**
@@ -41,7 +41,7 @@ The `User` class represents an Instagram user.
 * `getUsername():` Returns the user's username.
 * `getPosts():` Returns the list of the user's posts.
 
-2. Post Class
+### Post Class
 The Post class represents a user's post.
 
 **Attributes:**
@@ -57,7 +57,7 @@ The Post class represents a user's post.
 * `getComments():` Returns the list of comments.
 * `toString():` Formats the post details for display.
 
-3. Comment Class
+### Comment Class
 The Comment class represents a comment on a post.
 
 **Attributes:**
@@ -67,14 +67,14 @@ The Comment class represents a comment on a post.
 **Methods:**
 * `toString():` Formats the comment for display.
 
-4. Custom Exception
+### Custom Exception
 The `InvalidEmailException` class is a custom exception used to validate email addresses.
 
 **Usage:**
 Thrown when an email does not contain the '@' symbol.
 
 ## Implementation
-1. User Class
+1. **User Class**
 ```
 package com.devportal;
 
@@ -112,7 +112,7 @@ public class User {
 }
 ```
 
-2. Post Class
+2. **Post Class**
 ```
 package com.devportal;
 
@@ -164,7 +164,7 @@ public class Post {
 }
 ```
 
-3. Comment Class
+3. **Comment Class**
 ```
 package com.devportal;
 
@@ -186,7 +186,7 @@ public class Comment {
 }
 ```
 
-4. Custom Exception
+4. **Custom Exception**
 ```
 package com.devportal;
 
@@ -198,13 +198,13 @@ public class InvalidEmailException extends Exception {
 }
 ```
 
-5. Main Program
+5. **Main Program**
 The Main class ties everything together, simulating user interactions.
-Users can:
-1. Choose to act as a specific user.
-2. Add posts.
-3. View all posts from all users.
-4. Like or comment on posts.
+`Users can:`
+* Choose to act as a specific user.
+* Add posts.
+* View all posts from all users.
+* Like or comment on posts.
 
 ```
 package com.devportal;
