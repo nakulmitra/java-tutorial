@@ -32,40 +32,40 @@ This project serves as a foundation for understanding how to design and implemen
 The `User` class represents an Instagram user.
 
 **Attributes:**
-`username:` The user's name (unique).
-`email:` The user's email address (validated using a custom exception).
-`posts:` A list of the user's posts.
+* `username:` The user's name (unique).
+* `email:` The user's email address (validated using a custom exception).
+* `posts:` A list of the user's posts.
 
 **Methods:**
-`addPost(String content):` Adds a new post to the user's list of posts.
-`getUsername():` Returns the user's username.
-`getPosts():` Returns the list of the user's posts.
+* `addPost(String content):` Adds a new post to the user's list of posts.
+* `getUsername():` Returns the user's username.
+* `getPosts():` Returns the list of the user's posts.
 
 2. Post Class
 The Post class represents a user's post.
 
 **Attributes:**
-`postId:` Unique ID for each post.
-`content:` Content of the post.
-`likes:` A map to track which users liked the post.
-`comments:` A list of comments on the post.
+* `postId:` Unique ID for each post.
+* `content:` Content of the post.
+* `likes:` A map to track which users liked the post.
+* `comments:` A list of comments on the post.
 
 **Methods:**
-`toggleLike(String username):` Allows a user to like or unlike the post.
-`addComment(String commenter, String commentText):` Adds a comment to the post.
-`getLikeCount():` Returns the total number of likes.
-`getComments():` Returns the list of comments.
-`toString():` Formats the post details for display.
+* `toggleLike(String username):` Allows a user to like or unlike the post.
+* `addComment(String commenter, String commentText):` Adds a comment to the post.
+* `getLikeCount():` Returns the total number of likes.
+* `getComments():` Returns the list of comments.
+* `toString():` Formats the post details for display.
 
 3. Comment Class
 The Comment class represents a comment on a post.
 
 **Attributes:**
-`commenter:` The username of the person who commented.
-`text:` The comment text.
+* `commenter:` The username of the person who commented.
+* `text:` The comment text.
 
 **Methods:**
-`toString():` Formats the comment for display.
+* `toString():` Formats the comment for display.
 
 4. Custom Exception
 The `InvalidEmailException` class is a custom exception used to validate email addresses.
