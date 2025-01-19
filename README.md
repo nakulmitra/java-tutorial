@@ -81,6 +81,9 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Java Stream API: Terminal Operations](java-8-enhancements/terminal-operations.md)
 - [Java Optional Class](java-8-enhancements/optional-class.md)
 
+## Java Interview Topics
+- [String, StringBuilder and StringBuffer Performance Comparison](interview/string-stringbuilder-stringbuffer.md)
+
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
 * [Object-Oriented Programming (OOP) in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbF2t_O8w2Kjx0R7qYTA2XB)
