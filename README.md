@@ -91,6 +91,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 * [Real-World Projects with OOP Concepts](https://www.youtube.com/playlist?list=PLKrxcqbQdCgaAtUObt11xA63eO7kx4Epj)
 * [Java Collections Framework](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbW61Q0L9gIPE-DdnklEBxy)
 * [Java 8 Enhancements](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbYmzd0OuxRVm5FZes2XySj)
+* [SQL Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCga1o3NbaommIaQmqDJ_Y3Vo)
 
 ## Stay Connected
 * [Dev Portal](https://www.youtube.com/@DevPortal2114)

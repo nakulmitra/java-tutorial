@@ -174,4 +174,4 @@ The **Optional** class is a powerful addition to Java that enables developers to
 * Use methods like `orElse`, `ifPresent`, and `map` for concise and functional code.
 * Incorporate Optional into real-world scenarios, such as database handling, to write robust, error-free code.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/terminal-operations.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/terminal-operations.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/interview/string-stringbuilder-stringbuffer.md)

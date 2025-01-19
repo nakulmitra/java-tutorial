@@ -169,7 +169,7 @@ public class ThreadSafetyTest {
 
 **Output**:  
 - The `StringBuffer` ensures thread-safe operations.  
-- You'll see consistent, non-corrupted results, even with multiple threads.  
+- We'll see consistent, non-corrupted results, even with multiple threads.  
 
 ## 6. Best Practices 
 * Use `String` for constant or rarely modified data.  
@@ -178,7 +178,9 @@ public class ThreadSafetyTest {
 
 ## 7. Summary 
 - **String**: Immutable, thread-safe, best for fixed or rarely changed data.  
-- **StringBuilder**: Mutable, fast, but not thread-safe—ideal for single-threaded applications.  
+- **StringBuilder**: Mutable, fast, but not thread-safe - ideal for single-threaded applications.  
 - **StringBuffer**: Mutable and thread-safe, best for multi-threaded environments.
 
-By understanding the characteristics and use cases of `String`, `StringBuilder`, and `StringBuffer`, you can make informed decisions about which class to use in your Java applications. This knowledge not only helps you write efficient code but also prepares you for technical interviews where these concepts are often discussed.
+By understanding the characteristics and use cases of `String`, `StringBuilder`, and `StringBuffer`, we can make informed decisions about which class to use in our Java applications. This knowledge not only helps us write efficient code but also prepares us for technical interviews where these concepts are often discussed.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/optional-class.md)
