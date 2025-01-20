@@ -116,9 +116,7 @@ public class PerformanceTest {
 **Expected Output**:  
 - `String`: Slowest, as new objects are created on every iteration.  
 - `StringBuilder`: Fastest, as it modifies the same object.  
-- `StringBuffer`: Slightly slower than `StringBuilder` due to thread-safety overhead.  
-
----
+- `StringBuffer`: Slightly slower than `StringBuilder` due to thread-safety overhead.
 
 ### Example 2: Thread Safety with StringBuffer
 Let's demonstrate thread safety with `StringBuffer`.  
