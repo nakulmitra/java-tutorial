@@ -1,8 +1,9 @@
 # Understanding String, StringBuilder, and StringBuffer in Java  
-
 In Java, handling text is a common task in almost every application. Java provides three main classes for managing and manipulating
 text: **String**, **StringBuilder**, and **StringBuffer**. Each of these classes has unique characteristics, and understanding when 
 to use them is essential for writing efficient, scalable, and maintainable code.
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/UhMO1skchKo)](https://youtu.be/UhMO1skchKo)
 
 ## 1. String in Java
 **Definition**:  
