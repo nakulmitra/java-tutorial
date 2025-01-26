@@ -83,6 +83,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 
 ## Java Interview Topics
 - [String, StringBuilder and StringBuffer Performance Comparison](interview/string-stringbuilder-stringbuffer.md)
+- [String Pool in Java](interview/string-pool.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
