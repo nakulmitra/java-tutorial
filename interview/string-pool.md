@@ -149,3 +149,5 @@ public class StringInternExample {
   - Use `StringBuilder` or `StringBuffer` for frequent modifications.
 
 By understanding the String Pool, you can write efficient, high-performance Java applications while minimizing memory usage.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/interview/string-stringbuilder-stringbuffer.md)
