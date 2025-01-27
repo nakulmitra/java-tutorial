@@ -100,8 +100,6 @@ System.out.println(str1.equals(str2)); // true
      String result = sb.toString();
      ```
 
----
-
 ## 6. Practical Examples
 ### Example 1: Sharing References in the String Pool
 ```
