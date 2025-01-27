@@ -44,8 +44,6 @@ System.out.println(str1.equals(str2)); // true
 - The `==` operator compares references, so it returns `false`.
 - The `.equals()` method compares the actual content, so it returns `true`.
 
----
-
 ## 4. Benefits of the String Pool
 1. **Memory Optimization:** Strings with the same content share a single instance, significantly reducing memory usage.
 2. **Performance Improvement:** Reusing existing strings avoids the overhead of creating new objects.
