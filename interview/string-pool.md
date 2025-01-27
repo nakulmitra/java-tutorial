@@ -1,6 +1,8 @@
 # String Pool in Java: Detailed Explanation
 The **String Pool** in Java is a special memory area within the Heap that plays a critical role in memory optimization and efficient string handling. It ensures that strings with identical content are reused instead of creating new objects, thereby saving memory and improving performance.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/hh_aQcsHdmY)](https://youtu.be/hh_aQcsHdmY)
+
 ## 1. What is the String Pool?
 The **String Pool**, also known as the **String Intern Pool**, is a section of the heap memory where the Java Virtual Machine (JVM) stores **string literals**.  
 - When a string is created as a literal (e.g., `String str = "Java";`), the JVM checks the pool first.  
