@@ -148,4 +148,4 @@ public class StringInternExample {
 
 By understanding the String Pool, you can write efficient, high-performance Java applications while minimizing memory usage.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/interview/string-stringbuilder-stringbuffer.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/interview/string-stringbuilder-stringbuffer.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/interview/doubelEqualsAndEqualsMethod.md)

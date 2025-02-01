@@ -161,4 +161,6 @@ System.out.println(c1.equals(c2)); // false (Default equals() checks reference)
 - For collections like HashMap and HashSet, overriding `.equals()` and `hashCode()` is necessary for proper behavior.  
 
 ## **Conclusion**  
-Understanding `==` vs `.equals()` is a fundamental concept in Java. **Use `==` for reference comparison and `.equals()` for content comparison** to avoid common mistakes.
+Understanding `==` vs `.equals()` is a fundamental concept in Java. Use `==` for reference comparison and `.equals()` for content comparison to avoid common mistakes.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/interview/string-pool.md)
