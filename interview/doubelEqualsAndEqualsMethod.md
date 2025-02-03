@@ -1,14 +1,14 @@
 # Understanding `==` and `equals()` in Java
-
-## Introduction 
 In Java, comparing objects can be **tricky** for beginners. Two commonly used approaches for comparison are:  
 1. **`==` (Equality Operator)** - Checks if two references point to the same object in memory.  
-2. **`equals()` Method** - Checks if two objects have the **same content or value**.  
+2. **`equals()` Method** - Checks if two objects have the **same content or value**.
 
 Understanding the difference between these two is crucial for writing efficient and bug-free Java applications.
 
-## 1. Understanding `==` Operator in Java 
-The `==` operator is used for **reference comparison**. It checks whether two variables (especially objects) refer to the **same memory location**.  
+[![](https://markdown-videos-api.jorgenkh.no/youtube/ZOxRJx3xiik)](https://youtu.be/ZOxRJx3xiik)
+
+## 1. Understanding `==` Operator in Java
+The `==` operator is used for **reference comparison**. It checks whether two variables (especially objects) refer to the **same memory location**.
 
 ### Usage in Primitive Types
 For primitive data types (`int`, `char`, `double`, `boolean`, etc.), `==` compares the **actual values**.  
@@ -21,7 +21,7 @@ System.out.println(a == b); // true (values are same)
 ```
 
 ### Usage in Object References
-When used with objects, `==` checks if two references point to **the same memory address** in the heap.  
+When used with objects, `==` checks if two references point to **the same memory address** in the heap.
 
 ```
 String str1 = "Dev Portal";
@@ -36,14 +36,14 @@ System.out.println(str3 == str4); // false (Different objects in Heap memory)
 ```
 
 ### Key Takeaways for `==`
-* Works well for **primitive types** as it compares values.  
-* Not recommended for **object comparison**, as it only checks memory references.  
+* Works well for **primitive types** as it compares values.
+* Not recommended for **object comparison**, as it only checks memory references.
 
 ## 2. Understanding `equals()` Method in Java
-The `.equals()` method is defined in the `Object` class and is used to compare **object content** rather than memory location.  
+The `.equals()` method is defined in the `Object` class and is used to compare **object content** rather than memory location.
 
 ### Default Behavior (`Object` class implementation)
-By default, `.equals()` behaves the same as `==` unless overridden.  
+By default, `.equals()` behaves the same as `==` unless overridden.
 
 ```
 class Example { 
@@ -66,7 +66,7 @@ public class Test {
 Since `equals()` is not overridden, it acts just like `==` and compares references, returning **false**.
 
 ## 3. Overriding `equals()` for Proper Object Comparison
-To compare objects based on content, we **must override** the `equals()` method in our class.  
+To compare objects based on content, we **must override** the `equals()` method in our class.
 
 ### Example: Overriding `equals()` in a Custom Class
 ```
@@ -104,7 +104,7 @@ public class Test {
 ```
 
 ### How Does This Work?
-- `==` checks **references** and returns `false` because `p1` and `p2` are separate objects.  
+- `==` checks **references** and returns `false` because `p1` and `p2` are separate objects.
 - `.equals()` compares **content** and returns `true`.
 
 ## 4. Key Differences Between `==` and `equals()`
@@ -125,7 +125,7 @@ String s2 = new String("Hello");
 
 System.out.println(s1 == s2); // false (Different objects in heap)
 ```
-**Fix:** Use `.equals()`  
+**Fix:** Use `.equals()`
 ```
 System.out.println(s1.equals(s2)); // true (Same content)
 ```
@@ -148,17 +148,17 @@ System.out.println(c1.equals(c2)); // false (Default equals() checks reference)
 **Fix:** Override `.equals()` in `Car` class.
 
 ## 6. Best Practices for Comparing Objects
-* Use `==` only when comparing primitive values.  
-* Use `.equals()` for object comparison to check content.  
-* Always override `.equals()` in custom classes where meaningful object comparison is needed.  
-* Ensure `equals()` is consistent with `hashCode()` when overriding.  
+* Use `==` only when comparing primitive values.
+* Use `.equals()` for object comparison to check content.
+* Always override `.equals()` in custom classes where meaningful object comparison is needed.
+* Ensure `equals()` is consistent with `hashCode()` when overriding.
 
 ## 7. Summary
-- `==` compares references (memory locations), while `.equals()` compares actual content.  
-- Primitives (`int`, `char`, etc.) should be compared using `==`.  
-- Strings and objects should be compared using `.equals()`.  
-- Custom classes should override `.equals()` for meaningful comparisons.  
-- For collections like HashMap and HashSet, overriding `.equals()` and `hashCode()` is necessary for proper behavior.  
+- `==` compares references (memory locations), while `.equals()` compares actual content.
+- Primitives (`int`, `char`, etc.) should be compared using `==`.
+- Strings and objects should be compared using `.equals()`.
+- Custom classes should override `.equals()` for meaningful comparisons.
+- For collections like HashMap and HashSet, overriding `.equals()` and `hashCode()` is necessary for proper behavior.
 
 ## **Conclusion**  
 Understanding `==` vs `.equals()` is a fundamental concept in Java. Use `==` for reference comparison and `.equals()` for content comparison to avoid common mistakes.
