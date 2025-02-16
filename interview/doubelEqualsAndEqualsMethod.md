@@ -163,4 +163,4 @@ System.out.println(c1.equals(c2)); // false (Default equals() checks reference)
 ## **Conclusion**  
 Understanding `==` vs `.equals()` is a fundamental concept in Java. Use `==` for reference comparison and `.equals()` for content comparison to avoid common mistakes.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/interview/string-pool.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/interview/string-pool.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/interview/main-method-signature.md)
