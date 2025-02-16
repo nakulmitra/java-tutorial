@@ -85,6 +85,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [String, StringBuilder and StringBuffer Performance Comparison](interview/string-stringbuilder-stringbuffer.md)
 - [String Pool in Java](interview/string-pool.md)
 - [Understanding == and equals() in Java](interview/doubelEqualsAndEqualsMethod.md)
+- [Understanding the main Method Signature in Java](interview/main-method-signature.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
