@@ -1,11 +1,11 @@
 # Understanding `public static void main(String[] args)` in Java
 The **`main` method** is the entry point of any Java application. It serves as the first method that the **Java Virtual Machine (JVM)** calls when executing a Java program. The signature of the `main` method in Java is:  
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/b5YRpKH5XV8)](https://youtu.be/b5YRpKH5XV8)
-
 ```
 public static void main(String[] args)
 ```
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/b5YRpKH5XV8)](https://youtu.be/b5YRpKH5XV8)
 
 Each keyword in this method has a **specific purpose**, making it recognizable and executable by the JVM. In this document, we will break down each component of the `main` method, explore its significance, and discuss different scenarios related to it.
 
