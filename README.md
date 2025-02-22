@@ -87,6 +87,9 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Understanding == and equals() in Java](interview/doubelEqualsAndEqualsMethod.md)
 - [Understanding the main Method Signature in Java](interview/main-method-signature.md)
 
+## Java Multithreading & Concurrency
+- [Introduction to Multithreading](multithreading/introduction.md)
+
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
 * [Object-Oriented Programming (OOP) in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbF2t_O8w2Kjx0R7qYTA2XB)
@@ -94,7 +97,8 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 * [Real-World Projects with OOP Concepts](https://www.youtube.com/playlist?list=PLKrxcqbQdCgaAtUObt11xA63eO7kx4Epj)
 * [Java Collections Framework](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbW61Q0L9gIPE-DdnklEBxy)
 * [Java 8 Enhancements](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbYmzd0OuxRVm5FZes2XySj)
-* [SQL Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCga1o3NbaommIaQmqDJ_Y3Vo)
+* [PostgreSQL Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCga1o3NbaommIaQmqDJ_Y3Vo)
+* [Multithreading Series in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgahnSGPIJehTKtUU_0kSevR)
 
 ## Stay Connected
 * [Dev Portal](https://www.youtube.com/@DevPortal2114)
