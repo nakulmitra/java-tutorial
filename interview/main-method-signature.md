@@ -224,4 +224,4 @@ The `main` method **follows strict rules**, and any modification may lead to **c
 ## 6. Conclusion
 Understanding the `main` method is **fundamental** for Java developers, especially for **interviews and coding assessments**. Following the correct method signature ensures our Java application runs smoothly.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/interview/doubelEqualsAndEqualsMethod.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/interview/doubelEqualsAndEqualsMethod.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/introduction.md)
