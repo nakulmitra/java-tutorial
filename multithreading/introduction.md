@@ -103,9 +103,9 @@ While multithreading offers significant benefits, it also introduces challenges:
 
 ## 5. Summary
 * A **thread** is the smallest unit of execution within a process.
-* **Processes vs. Threads** A process has its own memory, while threads share memory.
-* **Multithreading improves performance**, CPU utilization, responsiveness, and efficiency. 
-* **Threads enable concurrency and parallelism**, making Java applications more scalable.
-* **Challenges of multithreading** include race conditions, deadlocks, and synchronization issues.
+* Processes vs Threads - A process has its own memory, while threads share memory.
+* Multithreading improves performance, CPU utilization, responsiveness, and efficiency. 
+* Threads enable concurrency and parallelism, making Java applications more scalable.
+* Challenges of multithreading include race conditions, deadlocks, and synchronization issues.
 
 [< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/interview/main-method-signature.md)
