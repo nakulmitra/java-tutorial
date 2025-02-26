@@ -1,6 +1,8 @@
 # Introduction to Multithreading in Java
 Multithreading is a powerful feature in Java that allows multiple tasks to run concurrently, improving the efficiency and responsiveness of applications. In this guide, we will explore the fundamentals of threads, how they differ from processes, and the benefits of using multithreading in Java.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/zkNRgu-GrLE)](https://youtu.be/zkNRgu-GrLE)
+
 ## 1. What is a Thread?
 A **thread** is the smallest unit of execution within a process. It represents a lightweight, independent path of execution that can run concurrently with other threads within the same process. In Java, threads enable developers to perform multiple tasks simultaneously, enhancing performance and responsiveness.
 
