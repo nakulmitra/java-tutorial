@@ -89,7 +89,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 
 ## Java Multithreading & Concurrency
 - [Introduction to Multithreading](multithreading/introduction.md)
-- [Introduction to Multithreading](multithreading/create-thread.md)
+- [Creating Threads in Java](multithreading/create-thread.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
