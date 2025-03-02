@@ -140,7 +140,7 @@ class MyCallable implements Callable<Integer> {
         int sum = 0;
         for (int i = 1; i <= 5; i++) {
             sum += i;
-            Thread.sleep(500); // Simulating work
+            Thread.sleep(100); // some work
         }
         return sum; // Returning the sum of first 5 numbers
     }
@@ -188,3 +188,6 @@ Sum: 15
 * Use **Thread class:** When you need a simple, standalone thread.
 * Use **Runnable:** When you need flexibility and separation of concerns.
 * Use **Callable & Future:** When you need a result from a thread.
+
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/introduction.md)

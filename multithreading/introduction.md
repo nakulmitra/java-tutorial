@@ -110,4 +110,4 @@ While multithreading offers significant benefits, it also introduces challenges:
 * Threads enable concurrency and parallelism, making Java applications more scalable.
 * Challenges of multithreading include race conditions, deadlocks, and synchronization issues.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/interview/main-method-signature.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/interview/main-method-signature.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/create-thread.md)
