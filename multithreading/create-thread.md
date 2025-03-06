@@ -5,6 +5,8 @@ In Java, multithreading allows concurrent execution of two or more parts of a pr
 2. **Implementing the `Runnable` interface**
 3. **Using `Callable` and `Future` for returning results from threads**
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/-awAH85_Tfw)](https://youtu.be/-awAH85_Tfw)
+
 Let's dive deep into each approach with examples and key takeaways.
 
 ## 1. Creating Threads by Extending the Thread Class
