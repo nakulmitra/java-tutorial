@@ -8,17 +8,18 @@ A thread is the **smallest unit of execution** within a process. It allows paral
 In Java, threads can be created in two ways:
 1. **Extending the `Thread` class**
 2. **Implementing the `Runnable` interface**
+3. **Implementing the `Callable` interface**
 
 ## **2. Thread Lifecycle in Java**
 A thread in Java undergoes the following states during its lifetime:
 
-1 **New**
-2 **Runnable**
-3 **Running**
-4 **Blocked**
-5 **Waiting**
-6 **Timed Waiting**
-7 **Terminated**
+* **New**
+* **Runnable**
+* **Running**
+* **Blocked**
+* **Waiting**
+* **Timed Waiting**
+* **Terminated**
 
 The following **state transition diagram** represents the Java Thread Lifecycle:
 
@@ -34,8 +35,8 @@ The following **state transition diagram** represents the Java Thread Lifecycle:
          |                   |                   |
          v                   v                   v
     +-----------+       +-----------+       +--------------+
-    | Timed     |       |           |       | Terminated   |
-    | Waiting   | ----> | Running   | ----> | (Dead)       |
+    | Timed     |       |           |       |              |
+    | Waiting   | ----> | Running   | ----> | Terminated   |
     +-----------+       +-----------+       +--------------+
 ```
 
@@ -192,7 +193,7 @@ class TimedWaitingExample {
 * **Key Points:**
 - The thread **automatically wakes up** after the specified time.
 
-### **Terminated (Dead) State**
+### **Terminated State**
 A thread enters the **Terminated state** after completing execution or being stopped.
 
 * **Example:**
