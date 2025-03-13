@@ -5,7 +5,7 @@ In Java, **multithreading** is a crucial concept that allows multiple threads to
 ## **1. What is a Thread?**
 A thread is the **smallest unit of execution** within a process. It allows parallel execution of tasks within a program, leading to **better resource utilization** and improved application performance.  
 
-In Java, threads can be created in two ways:
+In Java, threads can be created in three ways:
 1. **Extending the `Thread` class**
 2. **Implementing the `Runnable` interface**
 3. **Implementing the `Callable` interface**
