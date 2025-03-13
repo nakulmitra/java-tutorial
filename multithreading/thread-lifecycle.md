@@ -2,6 +2,8 @@
 
 In Java, **multithreading** is a crucial concept that allows multiple threads to run concurrently, improving performance and responsiveness in applications. A thread in Java undergoes multiple states during its lifetime, collectively known as the **Thread Lifecycle**.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/6sLXnypBWqA)](https://youtu.be/6sLXnypBWqA)
+
 ## **1. What is a Thread?**
 A thread is the **smallest unit of execution** within a process. It allows parallel execution of tasks within a program, leading to **better resource utilization** and improved application performance.  
 
