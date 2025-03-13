@@ -192,4 +192,4 @@ Sum: 15
 * Use **Callable & Future:** When you need a result from a thread.
 
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/introduction.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/introduction.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/thread-lifecycle.md)

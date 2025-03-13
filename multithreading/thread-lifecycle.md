@@ -127,6 +127,10 @@ public class BlockedThreadDemo {
 
         t1.start();
         t2.start();
+
+        Thread.sleep(1000);
+
+        System.out.println("Thread - 2 state: " + t2.getState());
     }
 }
 ```
@@ -157,6 +161,9 @@ class WaitingThreadDemo {
         t1.start();
         Thread.sleep(1000);
 
+        System.out.println("Thread state: " + t1.getState());
+        Thread.sleep(3000);
+        
         synchronized (t1) {
             t1.notify();
         }
@@ -219,3 +226,6 @@ public class TerminatedStateExample {
 
 ## 5. Conclusion
 Understanding the **Thread Lifecycle** is critical for effective multithreading. Java provides robust mechanisms to manage thread states efficiently, ensuring smooth execution in concurrent applications.
+
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/create-thread.md)
