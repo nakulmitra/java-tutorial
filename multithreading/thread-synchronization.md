@@ -27,28 +27,36 @@ class BankAccount {
             System.out.println(Thread.currentThread().getName() + " insufficient balance.");
         }
     }
+
+    public int getBalance(){
+        return balance;
+    }
 }
 
 public class RaceConditionExample {
     public static void main(String[] args) {
         BankAccount account = new BankAccount();
 
-        Runnable task = () -> account.withdraw(70);
+        Runnable task = () -> account.withdraw(80);
 
         Thread t1 = new Thread(task, "Thread-1");
         Thread t2 = new Thread(task, "Thread-2");
 
         t1.start();
         t2.start();
+
+        Thread.sleep(5000);
+        System.out.println("Final amount:" + account.getBalance());
     }
 }
 ```
 ### Possible Incorrect Output (Due to Race Condition)
 ```
-Thread-1 is withdrawing: 70
-Thread-2 is withdrawing: 70
-Thread-1 new balance: 30
-Thread-2 new balance: -40
+Thread-1 is withdrawing: 80
+Thread-2 is withdrawing: 80
+Thread-1 new balance: 20
+Thread-2 new balance: -60
+Final amount: -60
 ```
 **Issue:** Both threads read the balance as `100` before modifying it, leading to an incorrect final balance.
 
@@ -68,7 +76,8 @@ A **synchronized method** ensures that only **one thread at a time** can execute
 class BankAccount {
     private int balance = 100;
 
-    public synchronized void withdraw(int amount) {  // Synchronized Method
+    // Synchronized Method
+    public synchronized void withdraw(int amount) {
         if (balance >= amount) {
             System.out.println(Thread.currentThread().getName() + " is withdrawing: " + amount);
             balance -= amount;
@@ -81,9 +90,10 @@ class BankAccount {
 ```
 * **Correct Output (Race Condition Prevented)**
 ```
-Thread-1 is withdrawing: 70  
-Thread-1 new balance: 30  
+Thread-1 is withdrawing: 80
+Thread-1 new balance: 20
 Thread-2 insufficient balance.
+Final amount: 20
 ```
 **How it works?**
 * The `synchronized` keyword ensures that **only one thread** can execute the `withdraw` method at a time.
@@ -97,7 +107,8 @@ class BankAccount {
     private int balance = 100;
 
     public void withdraw(int amount) {
-        synchronized (this) {  // Synchronizing Only the Critical Section
+        // Synchronizing Only the Critical Section
+        synchronized (this) {
             if (balance >= amount) {
                 System.out.println(Thread.currentThread().getName() + " is withdrawing: " + amount);
                 balance -= amount;
@@ -121,8 +132,9 @@ If multiple threads access **static methods** that modify **shared static variab
 class Counter {
     private static int count = 0;
 
+    // Race Condition: Multiple threads can modify 'count' simultaneously
     public static void increment() {
-        count++;  // Race Condition: Multiple threads can modify 'count' simultaneously
+        count++;
     }
 
     public static int getCount() {
@@ -148,7 +160,7 @@ public class StaticSyncExample {
             t1.join();
             t2.join();
         } catch (InterruptedException e) {
-            e.printStackTrace();
+            System.out.println("Inside catch block!!!");
         }
 
         System.out.println("Final Count: " + Counter.getCount());  
