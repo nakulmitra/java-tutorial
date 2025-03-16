@@ -229,5 +229,4 @@ public class TerminatedStateExample {
 ## 5. Conclusion
 Understanding the **Thread Lifecycle** is critical for effective multithreading. Java provides robust mechanisms to manage thread states efficiently, ensuring smooth execution in concurrent applications.
 
-
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/create-thread.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/create-thread.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/thread-synchronization.md)

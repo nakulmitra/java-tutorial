@@ -99,7 +99,7 @@ Final amount: 20
 * The `synchronized` keyword ensures that **only one thread** can execute the `withdraw` method at a time.
 
 ### Synchronized Blocks
-Instead of synchronizing an entire method, **a synchronized block** allows you to **lock only a specific critical section**, improving performance.
+Instead of synchronizing an entire method, **a synchronized block** allows us to **lock only a specific critical section**, improving performance.
 
 ### Example: Using Synchronized Block
 ```
@@ -177,7 +177,7 @@ Final Count: 1892 (Instead of 2000)
 class Counter {
     private static int count = 0;
 
-    public synchronized static void increment() { 
+    public synchronized static void increment() {
         count++;
     }
 
@@ -222,3 +222,5 @@ Thread.yield();
 * Thread synchronization **prevents race conditions** and **ensures thread safety**.
 * Use `synchronized` methods, blocks, or static synchronization **based on the requirement**.
 * Be mindful of **performance impacts** while using synchronization mechanisms.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/thread-lifecycle.md)
