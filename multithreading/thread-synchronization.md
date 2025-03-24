@@ -1,6 +1,8 @@
 # Thread Synchronization in Java
 Thread synchronization is a crucial concept in Java when working with multithreading. It ensures that multiple threads do not interfere with each other while accessing shared resources, preventing issues such as race conditions and inconsistent data.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/JE3K8CUs1GE)](https://youtu.be/JE3K8CUs1GE)
+
 ## What is Thread Synchronization?
 Thread synchronization is the mechanism of controlling the execution of multiple threads to ensure **data consistency** when accessing shared resources.
 
