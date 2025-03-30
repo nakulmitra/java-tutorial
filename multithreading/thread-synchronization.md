@@ -225,4 +225,4 @@ Thread.yield();
 * Use `synchronized` methods, blocks, or static synchronization **based on the requirement**.
 * Be mindful of **performance impacts** while using synchronization mechanisms.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/thread-lifecycle.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/thread-lifecycle.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/locks-atomicVariables.md)
