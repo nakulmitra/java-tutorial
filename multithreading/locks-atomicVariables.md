@@ -1,6 +1,8 @@
 # **Introduction**
 In Java, handling concurrency properly is essential to ensure thread safety and avoid race conditions. Traditionally, the `synchronized` keyword was used for this purpose, but it has several limitations. To address these issues, Java introduced **Locks** (from `java.util.concurrent.locks`) and **Atomic Variables** (from `java.util.concurrent.atomic`).
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/oiEXFKLNQpc)](https://youtu.be/oiEXFKLNQpc)
+
 ## Problems with `synchronized` Methods and Blocks
 The `synchronized` keyword ensures that only one thread can execute a critical section at a time, preventing race conditions. However, it has several limitations:
 
