@@ -10,6 +10,8 @@ This project is a simplified version of Instagram implemented in Java. The goal 
 
 This project serves as a foundation for understanding how to design and implement social media-like applications using Java.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/CFMyJaRCPwk)](https://youtu.be/CFMyJaRCPwk)
+
 ## Features
 1. User Accounts
 * Create user accounts with a username and email.
