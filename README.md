@@ -93,6 +93,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Thread Lifecycle in Java](multithreading/thread-lifecycle.md)
 - [Thread Synchronization in Java](multithreading/thread-synchronization.md)
 - [Locks and Atomic Variables in Java](multithreading/locks-atomicVariables.md)
+- [Inter-Thread Communication in Java](multithreading/inter-thread-communication.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
