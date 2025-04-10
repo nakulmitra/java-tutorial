@@ -3,12 +3,14 @@ Inter-Thread Communication (ITC) in Java allows multiple threads to coordinate t
 
 Java provides built-in methods such as `wait()`, `notify()`, and `notifyAll()` to facilitate thread communication within a **synchronized block** or **synchronized method**.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/5k-gXIFWGRc)](https://youtu.be/5k-gXIFWGRc)
+
 ## Why Is Inter-Thread Communication Needed?
 In a **multi-threaded** environment, multiple threads may attempt to access or modify a shared resource concurrently. This can lead to:
 
-* **Race Conditions** – Threads may access shared data simultaneously, leading to inconsistent results.
-* **Deadlocks** – Threads may indefinitely wait for each other, causing the program to hang.
-* **Wasted CPU Cycles** – If a thread continuously checks for a condition without waiting efficiently, it may cause high CPU usage.
+* **Race Conditions** - Threads may access shared data simultaneously, leading to inconsistent results.
+* **Deadlocks** - Threads may indefinitely wait for each other, causing the program to hang.
+* **Wasted CPU Cycles** - If a thread continuously checks for a condition without waiting efficiently, it may cause high CPU usage.
 
 * **Example Scenario:**
 - **Producer-Consumer Problem** - A producer thread adds items to a queue, while a consumer thread removes items from it. If they don't communicate properly:
