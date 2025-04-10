@@ -164,4 +164,4 @@ public class AtomicVariableDemo {
 
 By understanding and applying Locks and Atomic Variables properly, you can write efficient, high-performance multi-threaded applications in Java!
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/thread-synchronization.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/thread-synchronization.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/inter-thread-communication.md)

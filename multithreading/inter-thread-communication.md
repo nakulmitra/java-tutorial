@@ -238,3 +238,5 @@ Produced: 3
 
 ## **8. Conclusion**
 Inter-Thread Communication is crucial for building **efficient, thread-safe applications**. Java's **wait() and notifyAll()** methods provide a powerful mechanism to avoid **busy waiting** and improve **CPU efficiency**.
+
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/multithreading/locks-atomicVariables.md)
