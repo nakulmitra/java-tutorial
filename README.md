@@ -94,7 +94,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Thread Synchronization in Java](multithreading/thread-synchronization.md)
 - [Locks and Atomic Variables in Java](multithreading/locks-atomicVariables.md)
 - [Inter-Thread Communication in Java](multithreading/inter-thread-communication.md)
-- [Thread Pools and Executors in Java](multithreading/threaPool-executors.md)
+- [Thread Pools and Executors in Java](multithreading/threadPool-executors.md)
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
