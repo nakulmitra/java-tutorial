@@ -80,6 +80,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Java Stream API: Intermediate Operations](java-8-enhancements/intermediate-operations.md)
 - [Java Stream API: Terminal Operations](java-8-enhancements/terminal-operations.md)
 - [Java Optional Class](java-8-enhancements/optional-class.md)
+- [Functional Interface in Java](java-8-enhancements/functional-interface.md)
 
 ## Java Interview Topics
 - [String, StringBuilder and StringBuffer Performance Comparison](interview/string-stringbuilder-stringbuffer.md)
