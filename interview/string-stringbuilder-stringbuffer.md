@@ -182,4 +182,4 @@ public class ThreadSafetyTest {
 
 By understanding the characteristics and use cases of `String`, `StringBuilder`, and `StringBuffer`, we can make informed decisions about which class to use in our Java applications. This knowledge not only helps us write efficient code but also prepares us for technical interviews where these concepts are often discussed.
 
-[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/optional-class.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/interview/string-pool.md)
+[< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/java-8-enhancements/functional-interface.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/interview/string-pool.md)
