@@ -1,6 +1,8 @@
 # Introduction
 As applications scale, managing threads manually becomes inefficient and error-prone. Java provides the **Executor Framework**, which abstracts away the complexity of managing threads directly. At the heart of this framework is the **ExecutorService**, which leverages **Thread Pools** to efficiently handle concurrent tasks.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/bUC6tft9TxM)](https://youtu.be/bUC6tft9TxM)
+
 ## Why Thread Pools?
 Manually creating threads for each task leads to:
 - High overhead due to thread creation/destruction
