@@ -75,9 +75,9 @@ interface Task {
 ## Real-World Use Cases of Functional Interfaces
 
 Functional interfaces are the **backbone** of:
-- **Lambda Expressions**
-- **Method References**
-- **Streams API**
+- Lambda Expressions
+- Method References
+- Streams API
 
 ### Lambda Expression Example:
 ```
