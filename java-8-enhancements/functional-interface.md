@@ -4,6 +4,8 @@ Functional interfaces are one of the core concepts introduced in **Java 8**. The
 
 Functional interfaces serve as the **foundation for lambda expressions, method references, and the Streams API**. In this document, we'll explore what functional interfaces are, why they matter, and how to use them effectively in real-world Java development.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/e5Q_kQFIdU4)](https://youtu.be/e5Q_kQFIdU4)
+
 ## What Is an Interface in Java?
 
 Before diving into functional interfaces, let's revisit the concept of an interface.
