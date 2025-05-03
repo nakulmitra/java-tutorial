@@ -20,7 +20,7 @@ The private access modifier restricts access to the members (variables or method
 * Often used in conjunction with **getter** and **setter** methods to control how fields are accessed and modified.
 
 ### Example
-```
+```java
 class User {
     private String name;  // Private variable
 
@@ -61,7 +61,7 @@ When no access modifier is specified, Java uses the default or package-private a
 * Ideal for internal package-level visibility without exposing functionality to external packages.
 
 ### Example
-```
+```java
 class Product {
     String productName;  // Default (package-private) access
 
@@ -88,7 +88,7 @@ The protected access modifier allows access within the same package and to subcl
 * Useful when designing inheritance hierarchies where the subclass needs access to some members of the parent class.
 
 ### Example
-```
+```java
 class Employee {
     protected String employeeName;  // Protected variable
 
@@ -122,7 +122,7 @@ The public access modifier allows access from any other class, inside or outside
 * Used when you want to make the members of a class universally accessible.
 
 ### Example
-```
+```java
 public class Car {
     public String model;  // Public variable
 
@@ -158,7 +158,7 @@ Both the `model` variable and `displayModel()` method are public and can be acce
 * `Public:` Provides universal access, suitable for methods and variables that need to be accessible across the application.
 
 ## Conclusion
-In this guide, we’ve covered the four primary access modifiers in Java: **private**, **default**, **protected**, and **public**. Understanding these access levels is crucial for controlling the visibility of your code and implementing encapsulation, ensuring that only the necessary parts of your code are exposed.
+In this guide, we've covered the four primary access modifiers in Java: **private**, **default**, **protected**, and **public**. Understanding these access levels is crucial for controlling the visibility of your code and implementing encapsulation, ensuring that only the necessary parts of your code are exposed.
 
 Use access modifiers thoughtfully to protect the integrity of your classes and ensure your Java programs are both **secure** and **maintainable**.
 
