@@ -56,6 +56,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Bank Management System Project in Java (Using OOP Concepts)](project/BankMgmtSystem.md)
 - [Online Shopping Cart System using OOP Concepts in Java](project/OnlineShoppingCartSystem.md)
 - [Dummy Instagram Project](project/dummy-instagram.md)
+- [Handling 1 Lakh Likes in 1 Minute using Redis + Spring Boot](project/instagram-clone-likes.md)
 
 ## Exception Handling 
 - [Introduction to Exception Handling in Java](exception-handling/Introduction.md)
