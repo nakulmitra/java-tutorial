@@ -11,9 +11,9 @@ Under this section, we will presents a **high-level conceptual architecture** of
 
 > **Disclaimer**: This architecture is **not an exact replica** of how companies like Instagram operate. It is a **simplified and practical design** to demonstrate scalable principles in system design.
 
-<!-- ## Watch the Full Tutorial on YouTube
+## Watch the Full Tutorial on YouTube
 
-[How Instagram Handles 1 Lakh Likes in 1 Minute | Redis Bulk Update System Design](https://youtu.be/YOUR_VIDEO_LINK) -->
+[How Instagram Handles 1 Lakh Likes in 1 Minute | Redis Bulk Update System Design](https://youtu.be/ChyRAH-0xGE)
 
 ## Problem Statement
 
