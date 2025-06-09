@@ -13,7 +13,7 @@ Under this section, we will presents a **high-level conceptual architecture** of
 
 ## Watch the Full Tutorial on YouTube
 
-[How Instagram Handles 1 Lakh Likes in 1 Minute | Redis Bulk Update System Design](https://youtu.be/ChyRAH-0xGE)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/ChyRAH-0xGE)](https://youtu.be/ChyRAH-0xGE)
 
 ## Problem Statement
 
