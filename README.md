@@ -57,6 +57,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Online Shopping Cart System using OOP Concepts in Java](project/OnlineShoppingCartSystem.md)
 - [Dummy Instagram Project](project/dummy-instagram.md)
 - [Handling 1 Lakh Likes in 1 Minute using Redis + Spring Boot](project/instagram-clone-likes.md)
+- [URL Shortener](https://github.com/nakulmitra/url-shortner)
 
 ## Exception Handling 
 - [Introduction to Exception Handling in Java](exception-handling/Introduction.md)
