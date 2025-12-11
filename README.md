@@ -100,14 +100,14 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Thread Pools and Executors in Java](multithreading/threadPool-executors.md)
 
 ## YouTube playlists
+* [PostgreSQL Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCga1o3NbaommIaQmqDJ_Y3Vo)
+* [Linux tutorial series for software developers](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbR2s0wxze6WE_OW07u_yJ8)
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
 * [Object-Oriented Programming (OOP) in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbF2t_O8w2Kjx0R7qYTA2XB)
 * [Exception Handling in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgYT9Eq36sZshd-GurkK2g1d)
 * [Real-World Projects with OOP Concepts](https://www.youtube.com/playlist?list=PLKrxcqbQdCgaAtUObt11xA63eO7kx4Epj)
 * [Java Collections Framework](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbW61Q0L9gIPE-DdnklEBxy)
 * [Java 8 Enhancements](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbYmzd0OuxRVm5FZes2XySj)
-* [PostgreSQL Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCga1o3NbaommIaQmqDJ_Y3Vo)
-* [Linux tutorial series for software developers](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbR2s0wxze6WE_OW07u_yJ8)
 * [Multithreading Series in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgahnSGPIJehTKtUU_0kSevR)
 
 ## Stay Connected
