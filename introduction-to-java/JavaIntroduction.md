@@ -2,7 +2,7 @@
 Java is a versatile, platform-independent, object-oriented programming language used for developing a wide range of applications. Java is known for its Write Once, Run Anywhere principle.
 
 ## What is Java?
-Java is a high-level, object-oriented programming language known for its platform independence, meaning Java programs can run on any device with a Java Virtual Machine (JVM). It was designed to be simple, secure, and robust.
+Java is a high-level, object-oriented programming language known for its platform independence, meaning Java programs can run on any device with a Java Virtual Machine (JVM). It was designed to be simple, secure and robust.
 
 ## Features of Java
 * ``Platform Independence:`` Java programs are compiled into bytecode, which can be executed on any device with a JVM.
