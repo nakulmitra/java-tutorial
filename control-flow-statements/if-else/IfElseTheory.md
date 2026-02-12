@@ -5,7 +5,7 @@ Control flow statements in Java are fundamental for directing the execution flow
 
 ## 1. If Statement
 ### Definition:
-The if statement allows you to execute a block of code only if a specified condition is true. This is useful for making decisions in your code based on dynamic conditions.
+The if statement allows us to execute a block of code only if a specified condition is true. This is useful for making decisions in our code based on dynamic conditions.
 
 ### Syntax:
 ```
@@ -27,7 +27,7 @@ In this example, the condition number > 5 is evaluated. Since 10 is greater than
 
 ## 2. Else Statement
 ### Definition:
-The else statement allows you to specify a block of code to be executed if the condition in the if statement is false. This provides an alternative path of execution when the initial condition is not met.
+The else statement allows us to specify a block of code to be executed if the condition in the if statement is false. This provides an alternative path of execution when the initial condition is not met.
 
 ### Syntax:
 ```
@@ -53,7 +53,7 @@ In this example, the condition number > 5 is false since 3 is not greater than 5
 
 ## 3. Else If Statement
 ### Definition:
-The else if statement allows you to check multiple conditions. When the initial if condition is false, you can use else if to specify a new condition to be evaluated. This is useful for checking multiple conditions in a sequential manner.
+The else if statement allows us to check multiple conditions. When the initial if condition is false, we can use else if to specify a new condition to be evaluated. This is useful for checking multiple conditions in a sequential manner.
 
 ### Syntax:
 ```
@@ -86,6 +86,6 @@ In this example, the initial if condition number > 5 is false, so the program ch
 * Else Statement: Executes a block of code if the if condition is false.
 * Else If Statement: Checks multiple conditions in a sequence, providing additional paths of execution.
 
-These control flow statements are fundamental for implementing decision-making logic in Java programs. By using if, else, and else if statements, you can create dynamic and flexible code that responds to different conditions and inputs effectively.
+These control flow statements are fundamental for implementing decision-making logic in Java programs. By using if, else, and else if statements, we can create dynamic and flexible code that responds to different conditions and inputs effectively.
 
 [< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/variables/VariablesTypes.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/switch/SwitchTheory.md)
