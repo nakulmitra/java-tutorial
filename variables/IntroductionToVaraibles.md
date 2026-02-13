@@ -59,7 +59,7 @@ Car myCar = new Car();
 ```
 
 ## How to Declare Variables in Java
-To declare a variable, you need to specify the data type followed by the variable's name and, optionally, assign a value.
+To declare a variable, we need to specify the data type followed by the variable's name and, optionally, assign a value.
 ### Syntax
 ```
 dataType variableName = value;
@@ -75,7 +75,7 @@ String name = "abc";
 1. `Valid Characters:` Variable names can start with a letter, dollar sign ($), or an underscore (_). Subsequent characters can be letters, digits, dollar signs, or underscores. For example: `myAge`, `_counter`, `$balance`.
 2. `No Reserved Keywords:` Variable names cannot be any Java reserved keywords, such as `int`, `class`, `public`.
 3. `Case Sensitivity:` Java is case-sensitive, so `myAge` and `MyAge` would be treated as two different variables.
-4. `Meaningful Names:` It’s best practice to give your variables meaningful names that describe the data they store. For example:
+4. `Meaningful Names:` It's best practice to give our variables meaningful names that describe the data they store. For example:
 ```
 int totalPrice; //Good
 int tp; //Bad
@@ -93,7 +93,7 @@ Java has two categories of data types: **Primitive** and **Non-Primitive**.
 * Strings, arrays, and custom classes are examples of non-primitive types.
 
 ## Is Java Purely Object-Oriented?
-While Java is often called an object-oriented programming language, it’s not purely object-oriented because it includes primitive data types, which are not objects. Additionally:
+While Java is often called an object-oriented programming language, it's not purely object-oriented because it includes primitive data types, which are not objects. Additionally:
 * **Static methods** can be called without creating an object of the class, which deviates from the OOP principle where everything should be an object.
 Thus, Java is considered a **mixed-paradigm** language, supporting **object-oriented**, **procedural**, and **functional programming** (with features like lambda expressions and functional interfaces introduced in Java 8).
 
