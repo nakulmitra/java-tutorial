@@ -1,5 +1,5 @@
 # For Loops in Java
-A for loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. It is particularly useful when you know in advance how many times you want to execute a statement or a block of statements.
+A for loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. It is particularly useful when we know in advance how many times we want to execute a statement or a block of statements.
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/oV7o5pzw4Zw)](https://youtu.be/oV7o5pzw4Zw)
 
@@ -53,13 +53,13 @@ In this example:
 ### 1. Clarity: 
 For loops provide a clear and concise way to iterate over a range of values.
 ### 2. Control: 
-They give you precise control over the initialization, condition, and increment/decrement steps.
+They give us precise control over the initialization, condition, and increment/decrement steps.
 ### 3. Versatility: 
 For loops can be used for a variety of tasks, such as iterating over arrays, collections, and other data structures.
 
 ## Use Cases:
-* Counting iterations: When you need to perform an action a specific number of times.
-* Traversing arrays or collections: When you need to access each element in an array or a collection.
-* Performing repetitive tasks: When you need to repeat a block of code multiple times.
+* Counting iterations: When we need to perform an action a specific number of times.
+* Traversing arrays or collections: When we need to access each element in an array or a collection.
+* Performing repetitive tasks: When we need to repeat a block of code multiple times.
 
 [< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/loops/while-loop/WhileLoopTheory.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/loops/do-while-loop/DoWhileLoopTheory.md)
