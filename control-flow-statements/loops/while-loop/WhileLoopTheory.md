@@ -38,13 +38,10 @@ while (i < 5) {
 4. This process repeats until i is no longer less than 5.
 
 ## Common Use Cases:
-### 1. Reading Data:
-* While loops are often used to read data until a certain condition is met, such as reading user input until a specific value is entered.
+* `Reading Data:` While loops are often used to read data until a certain condition is met, such as reading user input until a specific value is entered.
 
-### 2. Processing Files:
-* You can use a while loop to process each line of a file until the end of the file is reached.
+* `Processing Files:` You can use a while loop to process each line of a file until the end of the file is reached.
 
-### 3. Repeating Tasks:
-* Any task that needs to be repeated a variable number of times based on dynamic conditions can utilize a while loop.
+* `Repeating Tasks:` Any task that needs to be repeated a variable number of times based on dynamic conditions can utilize a while loop.
 
 [< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/switch/SwitchTheory.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/control-flow-statements/loops/for-loop/ForLoopTheory.md)
