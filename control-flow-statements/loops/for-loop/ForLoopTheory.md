@@ -12,14 +12,11 @@ for (initialization; condition; increment/decrement) {
 ```
 
 ## Break down each part of the for loop:
-### 1. Initialization: 
-This is executed only once, before the loop starts. It is used to initialize the loop control variable.
+1. `Initialization:` This is executed only once, before the loop starts. It is used to initialize the loop control variable.
 
-### 2. Condition: 
-This is evaluated before each iteration of the loop. If the condition is true, the loop body is executed. If it is false, the loop terminates.
+2. `Condition:` This is evaluated before each iteration of the loop. If the condition is true, the loop body is executed. If it is false, the loop terminates.
 
-### 3. Increment/Decrement: 
-This is executed after each iteration of the loop body. It is usually used to update the loop control variable.
+3. `Increment/Decrement:` This is executed after each iteration of the loop body. It is usually used to update the loop control variable.
 
 ## Example:
 Here is a basic example of a for loop:
@@ -50,12 +47,9 @@ In this example:
 3. System.out.println("Number: " + numbers[i]); prints each element of the numbers array.
 
 ## Advantages of For Loops:
-### 1. Clarity: 
-For loops provide a clear and concise way to iterate over a range of values.
-### 2. Control: 
-They give us precise control over the initialization, condition, and increment/decrement steps.
-### 3. Versatility: 
-For loops can be used for a variety of tasks, such as iterating over arrays, collections, and other data structures.
+1. `Clarity:` For loops provide a clear and concise way to iterate over a range of values.
+2. `Control:` They give us precise control over the initialization, condition, and increment/decrement steps.
+3. `Versatility:` For loops can be used for a variety of tasks, such as iterating over arrays, collections, and other data structures.
 
 ## Use Cases:
 * Counting iterations: When we need to perform an action a specific number of times.
