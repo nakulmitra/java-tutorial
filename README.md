@@ -58,6 +58,7 @@ Welcome to the Java Tutorial Repository! This repository contains detailed theor
 - [Dummy Instagram Project](project/dummy-instagram.md)
 - [Handling 1 Lakh Likes in 1 Minute using Redis + Spring Boot](project/instagram-clone-likes.md)
 - [URL Shortener](https://github.com/nakulmitra/url-shortner)
+- [Build Production Ready Idempotent APIs](https://github.com/nakulmitra/idempotency-design)
 
 ## Exception Handling 
 - [Introduction to Exception Handling in Java](exception-handling/Introduction.md)
