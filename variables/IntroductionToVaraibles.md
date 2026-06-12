@@ -1,4 +1,4 @@
-### 🖋️ Variables in Java
+# 🖋️ Variables in Java
 In Java, variables are a fundamental concept that allows developers to store and manipulate data. A variable can be thought of as a "container" that holds values for processing. Just like containers in a kitchen hold different items, Java variables hold different types of data. Understanding variables is crucial for managing and using data in Java programs.
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/3qSlNbmpTa0)](https://youtu.be/3qSlNbmpTa0)
@@ -93,8 +93,8 @@ Java has two categories of data types: **Primitive** and **Non-Primitive**.
 * Strings, arrays, and custom classes are examples of non-primitive types.
 
 ## Is Java Purely Object-Oriented?
-While Java is often called an object-oriented programming language, it's not purely object-oriented because it includes primitive data types, which are not objects. Additionally:
-* **Static methods** can be called without creating an object of the class, which deviates from the OOP principle where everything should be an object.
+While Java is often called an object-oriented programming language, it's not purely object-oriented because it includes primitive data types, which are not objects. Additionally, **Static methods** can be called without creating an object of the class, which deviates from the OOP principle where everything should be an object.
+
 Thus, Java is considered a **mixed-paradigm** language, supporting **object-oriented**, **procedural**, and **functional programming** (with features like lambda expressions and functional interfaces introduced in Java 8).
 
 [< Previous Tutorial](https://github.com/nakulmitra/java-tutorial/blob/master/architecture/jdk-jre-jvm/JDKvsJREvsJVM.md) | [Next Tutorial >](https://github.com/nakulmitra/java-tutorial/blob/master/variables/ByteDataType.md)
